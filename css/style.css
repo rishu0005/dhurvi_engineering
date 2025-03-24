@@ -1,0 +1,472 @@
+  html,body{
+      
+    background-color: #FFFFFF;
+    overflow-x: hidden;
+  }
+  .background{
+    background-color: #0B0D26;
+    /* background-color: #46474a; */
+  }
+  /* Make the navbar transparent */
+  .navbar {
+    /* background-color: rgb(196, 184, 184) !important; Semi-transparent background */
+    /* background-color: #4263af; */
+    background-color: white;
+    color: black !important;
+    /* position: fixed;  Change from absolute to fixed for sticky behavior */
+    width: 100%;
+    height: 100px;  /* Default height */
+    top: 0;
+    z-index: 1000;
+    /* border-bottom: 1px solid #535353; */
+    /* padding-top: 2rem; */
+    transition: all 0.3s ease-in-out;  /* Smooth transition for height and background */
+    /* padding: 50px; */
+  }
+  .navbar.scrolled {
+    height: 100px; /*  Reduced height when scrolled*/
+    background-color: white !important;  /* Darker background when scrolled */
+    border-bottom: 1px solid grey; /* Darker border */
+  }
+
+  .navbar-brand img {
+    padding-bottom: 8px;
+    /* min-width: 193px; */
+    height: 85px;
+    max-height: 100px;
+    max-width: 250px;
+    transition: all 0.3s ease-in-out; /* Smooth transition for logo resizing */
+  }
+
+  /* Shrink Logo on Scroll */
+  .navbar.scrolled .navbar-brand img {
+    max-width: 150px;  /* Shrink logo on scroll */
+  }
+
+  /* Ensure the navbar text is visible over the slideshow */
+  .navbar-nav .nav-link,
+  .navbar-text {
+    color: #fff ; 
+  }
+
+  .navbar-toggler {
+    border-color: rgba(255, 255, 255, 0.7);
+  }
+
+  .navbar-toggler-icon {
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' fill='%23ffffff' viewBox='0 0 30 30'%3e%3cpath stroke='rgba%28255, 255, 255, 0.7%29' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+  }
+  .nav-link{
+    transition: all 0.6s ease;
+    font-size: 1.2rem;
+    position: relative;
+  }
+.fs-7{
+  font-size: 17px;
+  font-weight: 500;
+}
+.under-line{
+  background-color: grey;
+height: 2px;
+width: 0px;
+position: absolute;
+bottom: 3px;
+left: 6px;
+transition: all 0.3s ease;
+}
+
+.home .under-line{
+background-color: grey;
+height: 2px;
+width: 60px;
+position: absolute;
+bottom: 3px;
+left: 6px;
+}
+.home:hover .under-line{
+  width: 60px;
+  transition: all 0.3s ease;
+}
+
+.pages:hover .under-line{
+  width: 90px;
+  transition: all 0.3s ease;
+}
+.projects:hover .under-line{
+  width: 88px;
+  transition: all 0.3s ease;
+}
+/* .blog:hover .under-line{
+  width: 40px;
+  transition: all 0.3s ease;
+}
+.shop:hover .under-line{
+  width: 45px;
+  transition: all 0.3s ease;
+} */
+.contact:hover .under-line{
+  width: 85px;
+  transition: all 0.3s ease;
+}
+
+
+/*** Index Page Start ***/
+.home-banner{
+  height: 100vh  ;
+  position: relative;
+}
+.top{
+  height: 30rem;
+  width: 30rem;
+  /* position: absolute; */
+  top: 0;
+
+}
+.left{
+  height: 30rem;
+  width: 2rem;
+  position: absolute;
+  right: 0  ;
+}
+.margin{
+  margin-top: 7rem;
+}
+.banner{
+  height: 45rem;
+  /* background-image: url('https://fabrica.ancorathemes.com/wp-content/uploads/2023/02/image-116-copyright.jpg'); */
+  /* background-image: url('../img/banner1.jpg'); */
+  background-image: url('https://img.freepik.com/free-photo/arc-welding-steel-construction-site_2831-686.jpg?ga=GA1.1.1643490475.1742809442&semt=ais_hybrid');
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.hero-title{
+  padding-left: 2rem;
+  /* padding-top: 2rem; */
+  /* padding-right: 2rem; */
+  color: #FCFCFC;
+  /* margin-top: 15%; */
+  -webkit-text-stroke-width: 0px;
+  font-size: 5.0vw;
+  font-weight: 600;
+  line-height: 1em;
+  letter-spacing: -0.03em;
+  word-wrap: break-word;
+  font-family: Outfit, sans-serif;
+}
+.banner-p{
+  /* padding-top: 0rem; */
+  /* margin-top: -10p; */
+  padding-left: 2rem;
+  padding-bottom: 2rem;
+  line-height: 1.5em;
+ color:#9ba2ad
+}
+.btn-red{
+  margin-left: 5%;
+  padding: 20px;
+  border: none;
+  outline: none;
+  background-color: #FA4729;
+}
+.elementor-spacer-inner {
+  height: 200px !important;
+  width: 100%;
+}
+.offer-span{
+  color: #181d4e;
+  font-weight: 500;
+  text-transform: uppercase;
+}
+.offer-h{
+  line-height: 1.1;
+  font-size: 3.5rem;
+  color: #181d4e;
+}
+.offer-p{
+  color: #5a5a67;
+  /* font-size:  ; */
+}
+.text-indigo{
+  color: #181d4e;
+}
+.bg-transparent{
+  background: transparent;
+}
+.construction{
+  position: relative;
+}
+.metal{
+  position: relative;
+}
+
+.read{
+  position: absolute;
+  opacity: 0;
+  /* bottom: 0; */
+  left: -10px;
+  bottom: 0px ;
+  /* transform: translateX(-100%) */
+  transition: all 0.5s linear;
+}
+.metal:hover .read{
+  position: relative;
+  display: inline;
+  left: 0px;
+  opacity: 1;
+  transform: translateX(0);
+  transition: all 0.5s ease-out;
+}
+.oil:hover .read{
+  position: relative;
+  display: inline;
+  left: 0px;
+  opacity: 1;
+  transform: translateX(0);
+  transition: all 0.5s ease-out;
+}
+.power:hover .read{
+  position: relative;
+  display: inline;
+  left: 0px;
+  opacity: 1;
+  transform: translateX(0);
+  transition: all 0.5s ease-out;
+}
+.construction:hover .read{
+  position: relative;
+  display: inline;
+  left: 0px;
+  opacity: 1;
+  transform: translateX(0);
+  transition: all 0.5s ease-out;
+}
+
+.work{
+  background-color: #f8f8f8;
+  height: 65rem;
+}
+.img-space{
+  margin-top: 10rem;
+}
+.crd-image {
+  position: relative;
+  transition: all 1s ease; /* Transition for the entire .crd-image */
+}
+
+.crd-image-bottom {
+  position: absolute;
+  opacity: 0;
+  transition: opacity 1s ease; /* Smooth transition for opacity */
+}
+.crd-image-overlay{
+  position: absolute;
+  
+  opacity: 0;
+  transition: opacity 0.5s ease;
+
+}
+.crd-image:hover .crd-image-bottom {
+  opacity: 1;   /* Make visible */
+}
+.products-index{
+  background-color: #FA4729;
+  /* padding: 20px; */
+  height: auto;
+}
+.product {
+  position: relative;
+  height: 300px ;
+  width: 300px;
+  /* background-image: url('https://fabrica.ancorathemes.com/wp-content/uploads/2023/02/image-8-copyright-650x572.jpg'); */
+  /* background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover; */
+}
+
+.product img{
+  height: 300px ;
+  width: 300px;
+  /* background-image: url('https://fabrica.ancorathemes.com/wp-content/uploads/2023/02/image-8-copyright-650x572.jpg'); */
+  /* background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover; */
+}
+
+.product h3{
+  background-color: #181d4e;
+  color: #ffffff;
+  position: absolute;
+  padding: 8px 30px;
+  bottom: -3%;  
+  /* left: -100%;
+  opacity: 0; */
+}
+/* .product h4{
+  background-color: #ffffff;
+  color: #FA4729;
+  position: absolute;
+  padding: 8px 30px;
+  bottom: 10%; 
+} */
+/* .product:hover{
+
+} */
+.countdown{
+  background-color: #FA4729;
+  height: 10rem;
+}
+.mail{
+  background-color: #FA4729;
+  padding: 20px;
+  border-radius: 50%;
+  color: white;
+  font-weight: 100;
+}
+.progress{
+  position: relative;
+  width: 100%;
+}
+.fabric-progress{
+  height: 100%;
+  position: absolute;
+  width: 80%;
+  background-color: #FA4729;
+}
+.counter {
+  font-size: 3.3em;
+  font-weight: bold;
+  margin: 10px 0;
+}
+.video-container{
+  background-image: url('https://fabrica.ancorathemes.com/wp-content/uploads/2023/02/image-10-copyright.jpg'); /* Replace with your image path */
+  /* object-fit: cover; */
+  background-size: cover;  /* Ensures the image covers the entire area */
+  background-position: center;  /* Centers the image */
+  height: 100vh;  /* Makes the image cover the full viewport height */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.play-button{
+  padding: 20px;
+  /* font-weight: 100; */
+  background-color: #ffffff;
+  border-radius: 50%;
+  color: #181d4e;
+  transition: all 0.3s linear;
+}
+.play-button:hover{
+  color: #FA4729;
+  padding: 25px;
+  transition: all 0.3s linear ;
+}
+.text-white{
+  color: #ffffff;
+}
+@media (min-width:768px) {
+  .border-right{
+    border-right: 1px solid #ffffff;
+  }
+}
+@media (max-width: 768px){
+  .countdown{
+    height: 33rem;
+  }
+  .navbar-collapse {
+    flex-basis: 100%;
+    flex-grow: 1;
+    align-items: center;
+    background: #0303039c;
+    padding-left: 10px;
+    margin-top: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: solid 1px #dee2e6;
+    border-radius: 0 0 10px 10px;
+    box-shadow: 2px 2px 20px black;
+}
+.navbar-nav .dropdown-menu {
+    position: static;
+    background: #2125298f;
+}
+}
+@media (max-width: 480px) {
+  .navbar-collapse {
+    flex-basis: 100%;
+    flex-grow: 1;
+    align-items: center;
+    background: #0303039c;
+    padding-left: 10px;
+    margin-top: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: solid 1px #dee2e6;
+    border-radius: 0 0 10px 10px;
+    box-shadow: 2px 2px 20px black;
+}
+.navbar-nav .dropdown-menu {
+    position: static;
+    background: #2125298f;
+}
+.dropdown-item{
+  color: #dee2e6 !important;
+} 
+}
+
+/* footer */
+.footer{
+  background-color:  #0B0D26;;
+}
+.color{
+  color: #9ba2ad;
+}
+.width{
+  width: 40rem;
+}
+
+
+
+@media (max-width: 480px) {
+  .width{
+    width: 20rem;
+  }
+}
+@media (max-width: 355px) {
+  .width{
+    width: 15rem;
+  }
+}
+
+
+/*** Index Page End  ***/
+
+/*** Contact Page Start  ***/
+.banner-contact{
+  position: relative;
+  height: 20rem;
+  width: 100%;
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/contact-banner.jpg');
+}
+.banner-contact h1{
+  font-size: 4.0vw;
+  font-weight: 600;
+  line-height: 1em;
+  letter-spacing: -0.03em;
+  word-wrap: break-word;
+  font-family: Outfit, sans-serif;
+  margin-top: 20vh;
+}
+.icon{
+  padding: 15px;
+  /* background-color: #181d4e; */
+  border: 1px solid lightgray;
+  border-radius: 50%;
+}
+.contact-background{
+  background-color: #f8f8f8;
+}
+
+
+/*** Contact Page End ***/
