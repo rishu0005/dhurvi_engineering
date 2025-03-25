@@ -140,7 +140,7 @@
     <div class="container-fluid">
         <div class="row">
             <div class="col-lg-12">
-                <h1 class="text-center text-light mt-5">Our Innovations</h1>
+                <h1 class="text-center text-light mt-5">Our Innovation</h1>
             </div>
         </div>
         <div class="row">
@@ -169,7 +169,7 @@
                 </div>
                 <div class="col-lg-12 text-center mt-4 mb-4">
 
-                    <button class="text-light  btn border border-light p-2">View All</button>
+                    <button class="text-light product-btn  shadow btn border border-light p-2">View All</button>
                 </div>
             </div>
         </div>

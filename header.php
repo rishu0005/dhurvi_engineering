@@ -32,23 +32,23 @@
     <div class="collapse navbar-collapse" id="navbarNav">
     <ul class="navbar-nav">
       <li class="nav-item active">
-        <a class="nav-link me-3 fs-5 fw-bold home text-dark " href="index.php">Home <span class="under-line"></span> </a>
+        <a class="nav-link me-3 fs-5  home text-dark " href="index.php">Home <span class="under-line"></span> </a>
       </li>
       <li class="nav-item">
-        <a class="nav-link me-3 pages fs-5 fw-bold  text-dark" href="about.php">About Us<span class="under-line"></span></a>
+        <a class="nav-link me-3 pages fs-5   text-dark" href="about.php">About Us<span class="under-line"></span></a>
       </li>
       <li class="nav-item">
-        <a class="nav-link me-3 projects fs-5 fw-bold  text-dark" href="product.php">Products <span class="under-line"></span></a>
+        <a class="nav-link me-3 projects fs-5   text-dark" href="product.php">Products <span class="under-line"></span></a>
       </li>
       <li class="nav-item">
-        <a class="nav-link me-3 contact fs-5 fw-bold  text-dark" href="contact.php">Contacts <span class="under-line"></span></a>
+        <a class="nav-link me-3 contact fs-5   text-dark" href="contact.php">Contacts <span class="under-line"></span></a>
       </li> 
     </ul>
 
      	<!-- Mobile Number -->
        <div class="d-flex ms-auto">
         <span class="navbar-text  text-dark">
-          <i class="fa-solid fa-phone-volume"></i> <a href="tel:+917507483383" class="text-dark fs-5 fw-bold ">+91 7507483383</a> / <a href="tel:+91 9325682260" class="text-dark fw-bold fs-5"> 9325682260</a>
+          <i class="fa-solid fa-phone-volume"></i> <a href="tel:+917507483383" class="text-dark fs-5  ">+91 7507483383</a> / <a href="tel:+91 9325682260" class="text-dark  fs-5"> 9325682260</a>
         </span>
       </div>
 
