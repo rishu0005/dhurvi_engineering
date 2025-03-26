@@ -1,6 +1,6 @@
 <?php include 'header.php' ?>
 <!-- Hero Section Start-->
- <div class="home-banner background position-relative">
+ <div class="home-banner background-img position-relative">
     <!-- <div class="top" style="background-image: url('img/exslider-stain-big.png');">
         <img src="" alt="">
     </div> -->
@@ -11,13 +11,13 @@
     <div class="container p-1">
         <div class="row margin " style="height: 100vh;">
             <div class="d-flex justify-content-center align-items-center"> 
-                <div class="col-md-6  banner">
+                <div class="col-md-">
                 <!-- <img src="img/banner.jpg" class="img-fluid" alt=""> -->
             </div>
-            <div class="col-md-6  pb-4">
+            <div class="col-md-12  pb-4">
                 <div class=" ">
-                    <h1 class="w-100 hero-title">Excellence in Precision Engineering </h1>
-                <p class=" fs-5 word-wrap w-75 banner-p">Precision engineering specializing in stainless steel solutions, progressive dies, and high-quality manufacturing for various industrial applications.
+                    <h1 class="w-75 hero-title">Excellence in Precision Engineering </h1>
+                <p class=" fs-5 mt-4 word-wrap w-75 banner-p">Precision engineering specializing in stainless steel solutions, progressive dies, and high-quality manufacturing for various industrial applications.
                 </p>
 
                 <button class="btn-red text-light px-5 ">About Us</button>
@@ -35,7 +35,7 @@
 <!-- What We Offer Start -->
  <div class="container mt-4">
     <div class="row">
-        <div class="d-flex  gx-4  align-items-center">
+        <div class="d-flex   align-items-center">
              <div class="col-md-6 me-4">
             <span class="offer-span">WHAT WE OFFER</span>
             <h1 class="offer-h">Unrivaled Mastery in Metal Fabrication
@@ -104,9 +104,9 @@
         <div class="d-flex justify-content-around">
             <div class="col-md-5">
            <div class="d-flex justify-content-center crd-image align-items-start">
-            <img src="./img/crd-image.jpg" class="img-fluid crd-image-top" alt="">
+            <img src="https://img.freepik.com/free-photo/workman-wearing-hard-hat-working-with-metal-constructions-factory_1303-26645.jpg?ga=GA1.1.1643490475.1742809442&semt=ais_hybrid" class="img-fluid crd-image-top" alt="">
            <!-- <div class="crd-image-overlay"></div> -->
-            <img src="./img/crd-image23.jpg" class="img-fluid crd-image-bottom" alt="">
+            <img src="https://img.freepik.com/free-photo/professional-carpenter-uses-circular-saw-workshop_23-2147944790.jpg?ga=GA1.1.1643490475.1742809442" class="img-fluid crd-image-bottom" alt="">
            </div>
            
 
@@ -120,8 +120,8 @@
            <p class="text-indigo fs-7">At Dhruvi Engineering, world-class quality is our priority, ensuring precision, durability, and excellence in every product. With advanced technology and meticulous craftsmanship, we set new industry standards</p>
 
            <div class="d-flex justify-content-centre align-items-center img img-space crd-image ">
-            <img src="https://fabrica.ancorathemes.com/wp-content/uploads/2023/02/image-2-copyright.jpg" class="img-fluid crd-image-top" alt="">
-            <img src="./img/image.jpg" class="img-fluid crd-image-bottom" alt="">
+               <img src="https://img.freepik.com/free-photo/bearded-shoemaker-glasses-is-creating-new-pair-shoes-using-special-machine_613910-12944.jpg?ga=GA1.1.1643490475.1742809442&semt=ais_hybrid" class="img-fluid h-100   crd-image-bottom" alt="">
+               <img src="./img/image.jpg" class="img-fluid crd-image-top" alt="">
            </div>
 
             </div>
@@ -134,7 +134,63 @@
 
 <!-- World Class Quality End -->
 
+<!-- How we Work Start -->
+<div class="container-fluid how-we-work">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 d-flex flex-column justify-content-center align-items-center">
+                <h1 class="text-indigo text-center mt-5 mb-5" style="max-width: 650px;">See How The Inner Working Of Company Look Likes</h1>
+                <!-- <h3>Our Inner working </h3> -->
 
+
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-6 col-lg-3 col-sm-12">
+                <div class="work-item">
+                <img src="https://cdn-icons-png.flaticon.com/128/4573/4573290.png" class="img-fluid icon" alt="">
+                    <span class="circle"></span>
+                    <h4>Design & Prototype</h4>
+                    <p>We begin with designing the die based on your specifications and creating a prototype to ensure precision and functionality.</p>
+                   
+                </div>
+            </div>
+            <div class="col-md-6 col-lg-3  col-sm-12">
+            <div class="work-item">
+                    
+            <img src="https://cdn-icons-png.flaticon.com/128/10614/10614604.png" class="img-fluid icon" alt="">
+                    <span></span>
+                    <h4>Material Selection</h4>
+                    <p>We choose high-quality materials that ensure durability and performance for the specific application.</p>
+                   
+                </div>
+                
+            </div>
+            <div class="col-md-6 col-lg-3  col-sm-12">
+            <div class="work-item">
+                    
+            <img src="https://cdn-icons-png.flaticon.com/128/1433/1433114.png" class="img-fluid icon" alt="">
+                    <span></span>
+                    <h4>Manufacturing</h4>
+                    <p>Using advanced machinery, we precisely manufacture the die to your exact requirements.</p>
+                   
+                </div>
+            </div>
+            <div class="col-md-6 col-lg-3  col-sm-12 card border-0">
+            <div class="work-item">
+                    
+            <img src="https://cdn-icons-png.flaticon.com/128/3645/3645772.png" class="img-fluid icon" alt="">
+                    <span></span>
+                    <h4>Quality Testing</h4>
+                    <p>Each Die undergoes thorough testing to ensure it meets industry standards for performance and durability</p>
+                   
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>
+<!-- How we Work End -->
 <!-- Our Products Start-->
  <div class="products-index">
     <div class="container-fluid">
