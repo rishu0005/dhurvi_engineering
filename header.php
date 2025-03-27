@@ -14,8 +14,7 @@
   <!-- StyleSheet -->
 	<link href="css/style.css" rel="stylesheet">
 
-  <!-- Count Up Animation -->
-  <script src="https://cdn.rawgit.com/inorganik/countUp.js/master/dist/countUp.min.js"></script>
+
 
 
 </head>
@@ -26,8 +25,10 @@
       <img loading="lazy" class="logo_image" src="./img/de-logo.png"  alt="logo" width="183" height="49">
 
     </a>
-    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
+    
+
     </button>
     <div class="collapse navbar-collapse" id="navbarNav">
     <ul class="navbar-nav">
