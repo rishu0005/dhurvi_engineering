@@ -42,6 +42,9 @@
         <a class="nav-link me-3 projects fs-5   text-dark" href="product.php">Products <span class="under-line"></span></a>
       </li>
       <li class="nav-item">
+        <a class="nav-link me-3 contact fs-5   text-dark" href="machinery.php">Machinery <span class="under-line"></span></a>
+      </li>
+      <li class="nav-item">
         <a class="nav-link me-3 contact fs-5   text-dark" href="contact.php">Contacts <span class="under-line"></span></a>
       </li> 
     </ul>

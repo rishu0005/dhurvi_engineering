@@ -135,11 +135,7 @@
                          Crafted from high-quality copper, our lugs ensure superior conductivity and corrosion resistance. Designed for durability, they provide secure electrical connections in industrial, automotive, and residential applications. The precision-engineered design allows for easy crimping and reliable performance under extreme conditions. With high thermal stability and exceptional mechanical strength, our copper lugs enhance electrical efficiency. Choose from a range of sizes to meet your specific needs.
                         </p>
                                 
-                            </div>
-
-             
-
-             
+                    </div>
              <div class="elementor-spacer-inner"></div>
              
            

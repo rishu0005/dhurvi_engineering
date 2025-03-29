@@ -1,15 +1,12 @@
 <?php include 'header.php'; ?>
 <div class="banner-contact ">
-    
-
-    
-    <div class="d-flex justify-content-center flex-column align-items-center">
-              
+    <div class="d-flex justify-content-center flex-column align-items-center">      
              <span class="mt-4 text-white"> <h1>Contact</h1></span>
              <span><i class="fa-solid fa-angle-down text-white text-center fs-3"></i></span>
-        
      </div>
 </div>
+
+
 <div class="container-fluid contact-background">
  <div class="container">
         <div class="row ">
