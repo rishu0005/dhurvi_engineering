@@ -178,8 +178,15 @@ left: 6px;
   background-color: #FA4729;
 }
 .elementor-spacer-inner {
-  height: 125px !important;
+  height: 100px ;
   width: 100%;
+}
+@media (max-width: 480px) {
+  .elementor-spacer-inner{
+    height: 50px !important;
+
+  }
+  
 }
 .offer-span{
   color: #181d4e;
@@ -191,6 +198,11 @@ left: 6px;
   font-size: 3.5rem;
   color: #181d4e;
 }
+ .quality{
+  /* font-size: 4rem !important; */
+  max-width: 30rem;
+}
+
 .offer-p{
   color: #5a5a67;
   /* font-size:  ; */
@@ -395,23 +407,8 @@ left: 6px;
   background-color: #FA4729;
   height: 10rem;
 }
-.mail{
-  background-color: #FA4729;
-  padding: 20px;
-  border-radius: 50%;
-  color: white;
-  font-weight: 100;
-}
-.progress{
-  position: relative;
-  width: 100%;
-}
-.fabric-progress{
-  height: 100%;
-  position: absolute;
-  width: 80%;
-  background-color: #FA4729;
-}
+
+
 .counter {
   font-size: 3.3em;
   font-weight: bold;
@@ -450,6 +447,9 @@ left: 6px;
 @media (min-width:768px) {
   .border-right{
     border-right: 1px solid #ffffff;
+  }
+  .border-right-indigo{
+    border-right: 2px solid #181f7f;
   }
  
 }
@@ -565,7 +565,7 @@ left: 6px;
 /*** Contact Page Start  ***/
 .banner-contact{
   position: relative;
-  height: 20rem;
+  height: 24rem;
   width: 100%;
   background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/contact-banner.jpg');
 }
@@ -590,3 +590,184 @@ left: 6px;
 
 
 /*** Contact Page End ***/
+
+/*** About Page Quality Section ***/
+.mail{
+  background-color: #FA4729;
+  padding: 20px;
+  border-radius: 50%;
+  color: white;
+  font-weight: 100;
+}
+.progress{
+  height: 6px;
+  /* background-color: #ffffff; */
+  position: relative;
+  width: 100%;
+}
+.fabric-progress{
+  height: 100%;
+  position: absolute;
+  width: 80%;
+  background-color: #FA4729;
+}
+.fabrication-progress-container{
+  /* background-color: red; */
+  position: relative;
+}
+.span-fabric{
+  position: absolute;
+  right: 20%;
+}
+.machining-progress{
+  height: 100%;
+  position: absolute;
+  width: 95%;
+  background-color: #FA4729;
+}
+.machining-progress-container{
+  /* background-color: red; */
+  position: relative;
+}
+.span-machining{
+  position: absolute;
+  right: 5%;
+}
+.construction-progress{
+  height: 100%;
+  position: absolute;
+  width: 85%;
+  background-color: #FA4729;
+}
+.construction-progress-container{
+  /* background-color: red; */
+  position: relative;
+}
+.span-construction{
+  position: absolute;
+  right: 15%;
+}
+/* .quality-images img{
+  height: 300px;
+} */
+.quality-images{
+  position: relative;
+}
+.quality-image12{
+  position: absolute;
+  top: 15rem;
+  left: 5rem;
+  max-height:30rem ;
+  height: 217px;
+  width: 300px;
+  /* background-color: red; */
+  background-image: url('../img/50_ton.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  z-index: 99;
+}
+.quality-image2 {
+  position: absolute;
+  top: 0rem;
+  right: 5rem;
+  max-height:30rem ;
+  height: 400px;
+  width: 300px;
+  background-image: url('../img/30_ton.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  z-index: 1;
+}
+.minus-margin{
+  margin-top: -10rem;
+}
+.bg-indigo{
+  background-color: #0B0D26;
+}
+.teamwork-card{
+  max-height: 500px;
+  min-width: 300px;
+  max-width: 400px;
+  min-width: 300px;
+  background-color: #FA4729;
+}
+.teamwork-card img{
+  height: 300px;
+  width: 300px;
+}
+
+/*** About Page Quality Section ***/
+
+/* Product Section Start */
+.copper-lug-images{
+  position: relative;
+}
+.copper-lug-image1{
+  position: absolute;
+  top: -3rem;
+  left: 4rem;
+  max-height:30rem ;
+  height: 200px;
+  border-radius: 25px;
+  width: 200px;
+  background-color: red;
+  background-image: url('../img/product2.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  z-index: 99;
+}
+
+.copper-lug-image3 {
+  position: absolute;
+  /* top: 0 rem; */
+  right: 5rem;
+  border-radius: 15px;
+  max-height:30rem ;
+  height: 300px;
+  width: 300px;
+  background-image: url('../img/product5.jpeg');
+  background-size: contain;
+  background-repeat: no-repeat;
+  z-index: 1;
+}
+.ss-cable-images{
+  position: relative;
+}
+.ss-cable-image1{
+  position: absolute;
+  top: 0rem;
+  left: 6rem;
+  max-height:30rem ;
+  height: 300px;
+  border-radius: 25px;
+  width: 300px;
+  /* background-color: red; */
+  /* background-image: url('../img/ss_cable.png'); */
+  /* background-size: contain; */
+  /* object-fit: contain; */
+  /* background-position: center center; */
+  /* background-repeat: no-repeat; */
+  z-index: 99;
+}
+
+
+.ss-cable-image3 {
+  position: absolute;
+  top: 6rem;
+  right: 5rem;
+  border-radius: 15px;
+  max-height:30rem ;
+  height: 300px;
+  width: 300px;
+  /* background-image: url('../img/ss_cable1.png'); */
+  /* background-size: contain; */
+  /* background-repeat: no-repeat; */
+  z-index: 1;
+}
+
+
+.bg-red{
+  background-color: #FA4729;
+}
+
+/* Product Section End */

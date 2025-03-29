@@ -122,8 +122,8 @@
            <p class="text-indigo fs-7">At Dhruvi Engineering, world-class quality is our priority, ensuring precision, durability, and excellence in every product. With advanced technology and meticulous craftsmanship, we set new industry standards</p>
 
            <div class="d-flex justify-content-centre align-items-center img img-space crd-image ">
-               <img src="https://img.freepik.com/free-photo/bearded-shoemaker-glasses-is-creating-new-pair-shoes-using-special-machine_613910-12944.jpg?ga=GA1.1.1643490475.1742809442&semt=ais_hybrid" class="img-fluid h-100   crd-image-bottom" alt="">
-               <img src="./img/image.jpg" class="img-fluid crd-image-top" alt="">
+               <img src="https://img.freepik.com/free-photo/bearded-shoemaker-glasses-is-creating-new-pair-shoes-using-special-machine_613910-12944.jpg?ga=GA1.1.1643490475.1742809442&semt=ais_hybrid" class="img-fluid h-100  crd-image-top " alt="">
+               <img src="./img/image.jpg" class="img-fluid h-100  crd-image-bottom" alt="">
            </div>
 
             </div>
@@ -178,7 +178,7 @@
                    
                 </div>
             </div>
-            <div class="col-md-6 col-lg-3  col-sm-12 card border-0">
+            <div class="col-md-6 col-lg-3 bg-transparent col-sm-12 card border-0">
             <div class="work-item">
                     
             <img src="https://cdn-icons-png.flaticon.com/128/3645/3645772.png" class="img-fluid icon" alt="">
@@ -198,7 +198,7 @@
     <div class="container-fluid">
         <div class="row">
             <div class="col-lg-12">
-                <h1 class="text-center text-light mt-5">Our Innovation</h1>
+                <h1 class="text-center text-light mt-5">Our Products & Machinery </h1>
             </div>
         </div>
         <div class="row">
@@ -215,13 +215,13 @@
                         <!-- <h4>Production</h4> -->
                     </div>
                     <div class="product">
-                        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRih_16RYpAiJ2ORkytHlBoM9Rq3SRbidR8lQ&s" alt="">
-                        <h3>SS Lader</h3>
+                        <img src="./img/50_ton1.png" alt="">
+                        <h3>50 Ton Press</h3>
                         <!-- <h4>Production</h4> -->
                     </div>
                     <div class="product">
-                        <img src="./img/product4.png" alt="">
-                        <h3>SS Releaseable Tie</h3>
+                        <img src="./img/50_ton.png" alt="">
+                        <h3>50 Ton Press</h3>
                         <!-- <h4>Production</h4> -->
                     </div>
                 </div>
@@ -235,7 +235,11 @@
  </div>
 
 
+
 <!-- ENd Of Our Products  -->
+
+<!-- <div class="elementor-spacer-inner"></div> -->
+
 <!-- <div class="elementor-spacer-inner"></div> -->
 <!-- work with the best brand Start  -->
 <!-- <div class="container">
@@ -286,15 +290,40 @@
 <div class="container-fluid video-container">
     <div class="video-container">
         <!-- <div class="play-button"> -->
-            <a href="" class="text-decoration-none text-light"><i class="fa-solid fa-play play-button"></i></a>
-            
+            <!-- <a href="" class="text-decoration-none text-light"><i class="fa-solid fa-play play-button"></i></a> -->
+            <!-- Button trigger modal -->
+<button type="button" class="btn " data-bs-toggle="modal" data-bs-target="#exampleModal">
+<i class="fa-solid fa-play play-button"></i>
+</button>
+
+<!-- Modal -->
+<div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog boder-0">
+ 
+    <div class="modal-content border-0 bg-transparent">
+      <div class="modal-header border-0">
+        <!-- <h1 class="modal-title fs-5" id="exampleModalLabel">Modal title</h1> -->
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="ratio ratio-16x9">
+
+            <video autoplay muted loop>
+      <source src="./video/video1.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+        </div>
+      
+    </div>
+  </div>
+</div>
         <!-- </div> -->
     </div>
 </div>
  <!-- VIdeo ENd  -->
 
+
  <!-- count up effect -->
-<div class="container-fluid countdown">
+<div class="container-fluid countdown ">
     <div class="container p-3">
         <div class="row ">
             <!-- <div class="d-flex justify-content-center align-items-center"> -->

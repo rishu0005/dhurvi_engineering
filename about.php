@@ -1,7 +1,7 @@
 <?php include 'header.php'; ?>
 <div class="banner-contact ">
     <div class="d-flex justify-content-center flex-column align-items-center">      
-             <span class="  text-white"> <h1>About Us</h1></span>
+             <span class="mt-4  text-white"> <h1>About Us</h1></span>
              <span><i class="fa-solid fa-angle-down text-white text-center fs-3"></i></span>
      </div>
 </div>
@@ -15,16 +15,11 @@
             <h1 class="offer-h">A Legacy of Excellence in Tool and Die Making   </h1>
         </div>
         <div class="col-md-6">
-            
-            <p class="offer-p mt-5 fs-7">Since its inception, Dhurvi Engineering has been a trusted name in the sheet metal and progressive die industry, delivering high-quality solutions to diverse sectors. Based at Sheetal Ind. No.6, Gala No.11, Navghar, Vasai (E), Dist. Palghar - 401 209, we have built a reputation for precision engineering, durability, and innovation. </p>
-
-            <p class="offer-p fs-7">With decades of expertise, we specialize in manufacturing progressive dies and sheet metal components that meet the highest industry standards. Our commitment to advanced technology, stringent quality control, and customer satisfaction ensures that every product we deliver excels in dimensional accuracy, performance, and longevity</p>
-
-            <p class="offer-p fs-7">
-            At Dhurvi Engineering, we don’t just create components—we craft solutions that drive industries forward.
-
-            </p>
-        </div>
+        <p class="offer-p fs-7">
+ Dhurvi Engineering has been a trusted name in the sheet metal and progressive die industry, delivering high-quality solutions with precision, durability, and innovation. Based in Vasai (E), Dist. Palghar, we specialize in manufacturing progressive dies and sheet metal components that meet the highest industry standards. With decades of expertise, advanced technology, and stringent quality control, we ensure excellence in dimensional accuracy, performance, and longevity. 
+</p>
+<p class="offer-p fs-7">At Dhurvi Engineering, we don’t just create components—we craft solutions that drive industries forward.</p>
+  </div>
         </div>
     </div>
     <!-- <div class="row">
@@ -73,26 +68,303 @@
 
  <div class="row">
     <div class="col-lg-12 d-flex gap-5 p-4 mt-5 flex-wrap mb-5 justify-content-center">
+        
         <div class="card card-width">
             <div class="card-header bg-transparent border-0">
-                <h2>Our Vision</h2>
+                <h2 class="text-indigo">Our Vision</h2>
             </div>
             <div class="card-body">
-                <p>To emerge as a one of the leading players with continous learning for ever changing needs.</p>
+                <p class="offer-p fs-7">To emerge as a one of the leading players with continous learning for ever changing needs.</p>
             </div>
         </div>
 
         <div class="card card-width ">
             <div class="card-header bg-transparent border-0">
-                <h2>Our Mission</h2>
+                <h2 class="text-indigo">Our Mission</h2>
             </div>
             <div class="card-body">
-                <p>To emerge as a one of the leading players emerge as a one of the leading  emerge as a one of the leadingw emerge as a one of the leading ith continous learning for ever changing needs.</p>
+                <p class="offer-p fs-7">To emerge as a one of the leading players emerge as a one of the leading  emerge as a one of the leading  emerge as a one of the leading ith continous learning for ever changing needs.</p>
             </div>
         </div>
 
     </div>
  </div>
 
+ <!-- <div class="container"> -->
+     <!-- Video-->
+<div class="container video-container">
+    <div class="video-container">
+        <!-- <div class="play-button"> -->
+            <!-- <a href="" class="text-decoration-none text-light"><i class="fa-solid fa-play play-button"></i></a> -->
+            <!-- Button trigger modal -->
+<button type="button" class="btn " data-bs-toggle="modal" data-bs-target="#exampleModal">
+<i class="fa-solid fa-play play-button"></i>
+</button>
+
+<!-- Modal -->
+<div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog boder-0">
+ 
+    <div class="modal-content border-0 bg-transparent">
+      <div class="modal-header border-0">
+        <!-- <h1 class="modal-title fs-5" id="exampleModalLabel">Modal title</h1> -->
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="ratio ratio-16x9">
+
+            <video autoplay muted loop>
+      <source src="./video/video1.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+        </div>
+      
+    </div>
+  </div>
+</div>
+        <!-- </div> -->
+    </div>
+</div>
+ <!-- VIdeo ENd  -->
+ <!-- </div> -->
+ <div class="elementor-spacer-inner bg-indigo minus-margin"></div>
+ <div class="elementor-spacer-inner bg-indigo"></div>
+ <div class="elementor-spacer-inner bg-indigo"></div>
+ <!-- work with the best brand Start  -->
+  <div class="container-fluid  bg-indigo">
+      <div class="container">
+          <div class="row">
+              <div class="col-md-6">
+              <span class="offer-span text-white">Quality Work</span>
+                 <h1 class="offer-h quality text-white">Quality That Speaks for Itself</h1>
+                 
+                 <p class="text-secondary fs-7 mb-3 mt-4">Adipiscing elit, sed do eiusmod tempor incididunt labore dolore magna aliqua. Ut enim ad minim veniam, quisq wiusmod ut tempor incididunt ut labore et dolore sed do magna aliqua.</p>
+                 <span class="mt-5">
+                  <!-- <p class="text-indigo fw-bold"><i class="fa-regular fa-envelope mail me-3 fs-5"></i> info@example.com</span></p> -->
+      
+                 <div class="progress-container mt-5">
+                      <div class="fabrication-progress-container mb-3">
+                      
+                              <span class="offer-p text-white fs-7">Fabrication</span>
+                              <span class="offer-p text-white fs-7 span-fabric" > 80%</span>
+                         
+                          <div class="progress mt-2">
+                              <div class="fabric-progress"></div>
+                          </div>
+                      </div>
+      
+                      <div class="machining-progress-container mb-3">
+                          <span class="offer-p fs-7 text-white">Machining</span>
+                          <span class="offer-p fs-7 text-white span-machining">95%</span>
+                          <div class="progress mt-2">
+                              <div class="machining-progress"></div>
+                          </div>
+                      </div>
+      
+                      <div class="construction-progress-container mb-5">
+                          <span class="offer-p fs-7 text-white"> Construction</span>
+                          <span class="offer-p fs-7 text-white span-construction"> 90%</span>
+                          <div class="progress mt-2">
+                              <div class="construction-progress"></div>
+                          </div>
+                      </div>
+                  </div>
+              </div>
+              <div class="col-md-6 mb-5">
+                  <div class="quality-images d-flex">
+                      <div class="quality-image12">
+                          <!-- <img src="./img/50_ton.png" class="img-fluid quality-image-1" alt=""> -->
+                      </div>
+                      <div class="quality-image2">
+                          <!-- <img src="./img/30_ton.png" class="img-fluid quality-image-2" alt=""> -->
+                      </div>
+      
+                  </div>
+                  
+              </div>
+          </div>
+      
+      </div>
+
+
+  </div>
+  <div class="elementor-spacer-inner bg-indigo"></div>
+<!-- work with the best brand End  -->
+
+
+<!-- How we Work Start -->
+<div class="container-fluid how-we-work work">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 d-flex flex-column justify-content-center align-items-center">
+                <h1 class="text-indigo text-center mt-5 mb-5" style="max-width: 650px;">See How The Inner Working Of Company Look Likes</h1>
+                <!-- <h3>Our Inner working </h3> -->
+
+
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-6 col-lg-3 col-sm-12">
+                <div class="work-item">
+                <img src="https://cdn-icons-png.flaticon.com/128/4573/4573290.png" class="img-fluid icon" alt="">
+                    <span class="circle"></span>
+                    <h4>Design & Prototype</h4>
+                    <p>We begin with designing the die based on your specifications and creating a prototype to ensure precision and functionality.</p>
+                   
+                </div>
+            </div>
+            <div class="col-md-6 col-lg-3  col-sm-12">
+            <div class="work-item">
+                    
+            <img src="https://cdn-icons-png.flaticon.com/128/10614/10614604.png" class="img-fluid icon" alt="">
+                    <span></span>
+                    <h4>Material Selection</h4>
+                    <p>We choose high-quality materials that ensure durability and performance for the specific application.</p>
+                   
+                </div>
+                
+            </div>
+            <div class="col-md-6 col-lg-3  col-sm-12">
+            <div class="work-item">
+                    
+            <img src="https://cdn-icons-png.flaticon.com/128/1433/1433114.png" class="img-fluid icon" alt="">
+                    <span></span>
+                    <h4>Manufacturing</h4>
+                    <p>Using advanced machinery, we precisely manufacture the die to your exact requirements.</p>
+                   
+                </div>
+            </div>
+            <div class="col-md-6 col-lg-3  col-sm-12 bg-transparent card border-0">
+            <div class="work-item">
+                    
+            <img src="https://cdn-icons-png.flaticon.com/128/3645/3645772.png" class="img-fluid icon" alt="">
+                    <span></span>
+                    <h4>Quality Testing</h4>
+                    <p>Each Die undergoes thorough testing to ensure it meets industry standards for performance and durability</p>
+                   
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>
+<!-- How we Work End -->
+
+<!-- Countdown start -->
+<div class="container-fluid  ">
+    <div class="container p-3">
+        <div class="row ">
+            <!-- <div class="d-flex justify-content-center align-items-center"> -->
+                   <div class="col-md-3 col-sm-12 border-right-indigo text-center">
+                <span class="counter text-indigo " id="cases">0</span>
+                <p class="fs-5 text-indigo fw-bold">Cases Solved</p>
+            </div>
+            <div class="col-md-3 col-sm-12 border-right-indigo text-center ">
+                <span class="counter count text-indigo" id="projects">0</span>
+                <p class="fs-5 text-indigo fw-bold">Products</p>
+            </div>
+            <div class="col-md-3 col-sm-12 text-center border-right-indigo">
+                <span class="counter text-indigo" id="clients">0</span>
+                <p class="fs-5 text-indigo fw-bold">Happy Clients</p>
+            </div>
+            <div class="col-md-3 col-sm-12 text-center">
+                <span  class="yearly_profit text-indigo counter" id="profit">0%</span>
+                <p class="fs-5 text-indigo fw-bold">Yearly Profit</p>
+            </div>
+            <!-- </div> -->
+         
+        </div>
+       
+    </div>
+</div>
+<!-- Countdown End -->
+
+<!-- Our Staff Start -->
+ <div class="container-fluid work">
+ <div class="elementor-spacer-inner"></div>
+     <div class="container">
+         <div class="row">
+             <div class="col-lg-6">
+                <span class="offer-span">The Heart of Dhurvi Engineering</span>
+                <h2 class="offer-h">Our Workforce, Tools And Creations</h2>
+             </div>
+             <div class="col-lg-6">
+                <p class="offer-p">At Dhurvi Engineering, our success is driven by a skilled workforce, advanced machinery, and top-quality products. Together, they define our commitment to precision, innovation, and excellence. From expert craftsmanship to cutting-edge technology, every component we create meets the highest industry standards.</p>
+
+                <p class="offer-p">
+                Our commitment to craftsmanship and customer satisfaction drives our reputation as a trusted leader in engineering solutions.
+                </p>
+             </div> 
+             <div class="col-lg-12 mt-5">
+             <!-- <div class="elementor-spacer-inner"></div> -->
+                <div class="d-flex gap-4 flex-wrap justify-content-center align-items-center">
+                    <div class="card border-0 bg-transparent teamwork-card">
+                        <img src="./img/staff_worker.png" class="img-fluid team-work" style="height: 300px; object-fit: cover;" alt="">
+                        <h3 class="text-center text-indigo">Staff Workers</h3>
+                    </div>
+
+                    <div class="card border-0 bg-transparent teamwork-card">
+                        <img src="./img/workers.jpeg" class="img-fluid team-work" style="height: 300px; object-fit: cover;" alt="">
+                        <h3 class="text-center text-indigo">Our Worker</h3>
+                    </div>
+
+                    <div class="card border-0 bg-transparent teamwork-card">
+                        <img src="./img/press.jpeg" class="img-fluid team-work"style="height: 300px; object-fit: cover;" alt="">
+                        <h3 class="text-center text-indigo">Press </h3>
+                    </div>
+
+                    <div class="card border-0 bg-transparent teamwork-card">
+                        <img src="./img/product1.jpeg" class="img-fluid team-work"style="height: 300px; object-fit: cover;" alt="">
+                        <h3 class="text-center text-indigo">Sheet Component Die</h3>
+                    </div>
+
+                    <div class="card border-0 bg-transparent teamwork-card">
+                        <img src="./img/product2.jpeg" class="img-fluid team-work"style="height: 300px; object-fit: cover;" alt="">
+                        <h3 class="text-center text-indigo">Steel Die </h3>
+                    </div>
+
+                    <div class="card border-0 bg-transparent teamwork-card">
+                        <img src="./img/product3.jpeg" class="img-fluid team-work" style="height: 300px; object-fit: cover;" alt="">
+                        <h3 class="text-center text-indigo">12mm Copper Lugs</h3>
+                    </div>
+
+                    <div class="card border-0 bg-transparent teamwork-card">
+                        <img src="./img/product4.jpeg" class="img-fluid team-work" style="height: 300px; object-fit: cover;" alt="">
+                        <h3 class="text-center text-indigo">  Copper Lugs </h3>
+                    </div>
+
+                    <div class="card border-0 bg-transparent teamwork-card">
+                        <img src="./img/product5.jpeg" class="img-fluid team-work" style="height: 300px; object-fit: cover;" alt="">
+                        <h3 class="text-center text-indigo">Bronze Lugs</h3>
+                    </div>
+
+                    <div class="card border-0 bg-transparent teamwork-card">
+                        <img src="./img/product6.jpeg" class="img-fluid team-work" style="height: 300px; object-fit: cover;" alt="">
+                        <h3 class="text-center text-indigo">  Copper Lugs</h3>
+                    </div>
+
+                    <div class="card border-0 bg-transparent teamwork-card">
+                        <img src="./img/50_ton.png" class="img-fluid team-work" style="height: 300px; object-fit: cover;" alt="">
+                        <h3 class="text-center text-indigo"> 50 Ton Press</h3>
+                    </div>
+
+                    <div class="card border-0 bg-transparent teamwork-card">
+                        <img src="./img/50_ton1.png" class="img-fluid team-work" style="height: 300px; object-fit: cover;" alt="">
+                        <h3 class="text-center text-indigo">50 Ton Press </h3>
+                    </div>
+
+                    <div class="card border-0 bg-transparent teamwork-card">
+                        <img src="./img/30_ton.png" class="img-fluid team-work" style="height: 300px; object-fit: cover;" alt="">
+                        <h3 class="text-center text-indigo">30 Ton Press </h3>
+                    </div>
+
+                </div>
+             </div>
+         </div>
+     </div>
+
+ </div>
+
+ <div class="elementor-spacer-inner work "></div>
+<!-- Our Staff End -->
 
 <?php include 'footer.php'; ?>
