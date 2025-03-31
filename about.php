@@ -70,10 +70,10 @@
     <div class="col-lg-12 d-flex gap-5 p-4 mt-5 flex-wrap mb-5 justify-content-center">
         
         <div class="card card-width">
-            <div class="card-header bg-transparent border-0">
-                <h2 class="text-indigo">Our Vision</h2>
+            <div class="card-header pb-0 bg-transparent border-0">
+                <h2 class="text-indigo  pt-0">Our Vision</h2>
             </div>
-            <div class="card-body">
+            <div class="card-body pb-0">
                 <p class="offer-p fs-7">To emerge as a one of the leading players with continous learning for ever changing needs.</p>
             </div>
         </div>
@@ -132,7 +132,7 @@
  <!-- work with the best brand Start  -->
   <div class="container-fluid  bg-indigo">
       <div class="container">
-          <div class="row">
+          <div class="row about">
               <div class="col-md-6">
               <span class="offer-span text-white">Quality Work</span>
                  <h1 class="offer-h quality text-white">Quality That Speaks for Itself</h1>
@@ -169,7 +169,7 @@
                       </div>
                   </div>
               </div>
-              <div class="col-md-6 mb-5">
+              <div class="col-md-6 bottom-margin mb-5">
                   <div class="quality-images d-flex">
                       <div class="quality-image12">
                           <!-- <img src="./img/50_ton.png" class="img-fluid quality-image-1" alt=""> -->

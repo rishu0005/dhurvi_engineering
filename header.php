@@ -55,8 +55,6 @@
           <i class="fa-solid fa-phone-volume"></i> <a href="tel:+917507483383" class="text-dark fs-5  ">+91 7507483383</a> / <a href="tel:+91 9325682260" class="text-dark  fs-5"> 9325682260</a>
         </span>
       </div>
-
-    
   </div>
 
     </div>

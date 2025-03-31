@@ -11,9 +11,7 @@
     <div class="container p-1">
         <div class="row margin " style="height: 100vh;">
             <div class="d-flex justify-content-center align-items-center"> 
-                <div class="col-md-">
-                <!-- <img src="img/banner.jpg" class="img-fluid" alt=""> -->
-            </div>
+                
             <div class="col-md-12  pb-4">
                 <div class=" ">
                     <h1 class="w-75 hero-title">Excellence in Precision Engineering </h1>
@@ -40,9 +38,7 @@
         <div class="d-flex  column-flex align-items-center">
              <div class="col-md-6 me-4">
             <span class="offer-span">WHAT WE OFFER</span>
-            <h1 class="offer-h">Unrivaled Mastery in Metal Fabrication
-
-</h1>
+            <h1 class="offer-h">Unrivaled Mastery in Metal Fabrication</h1>
         </div>
         <div class="col-md-6">
             <p class="offer-p mt-5 fs-7">Dhruvi Engineering stands at the pinnacle of precision, mastering the art of sheet metal fabrication and progressive die stamping. With an unwavering commitment to excellence, we craft bespoke solutions that blend innovation with timeless durability. </p>
@@ -131,7 +127,8 @@
         </div>
         
     </div>
- </div></div>
+ </div>
+</div>
  
 
 <!-- World Class Quality End -->

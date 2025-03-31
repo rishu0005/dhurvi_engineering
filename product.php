@@ -22,12 +22,15 @@
     </div>
 </div>
 
+<div class="container">
+  
+</div>
+
 <div class="container-fluid bg-indigo">
     <div class="container ">
         <div class="row">
             <div class="col-lg-12  mt-5">
                 <h2 class="offer-h text-white ">Our Products</h2>
-                
             </div>
             <div class="elementor-spacer-inner"></div>
              <div class="col-lg-6">
@@ -35,7 +38,7 @@
                       <div class="copper-lug-image1">
                         <img src="./img/product2.png" alt="" class="img-fluid rounded">
                       </div>
-                      <div class="copper-lug-image3">
+                      <div class="copper-lug-image3 mb-5">
                         <img src="./img/product5.jpeg" class="img-fluid rounded" alt="">
                       </div>
                   </div>
@@ -63,7 +66,7 @@
                       <div class="ss-cable-image1">
                         <img src="./img/ss_cable.png" class="img-fluid rounded" alt="">
                       </div>
-                      <div class="ss-cable-image3">
+                      <div class="ss-cable-image3 mb-5">
                       <img src="./img/ss_cable1.png" class="img-fluid rounded" alt="">
                       </div>
                   </div>
@@ -105,7 +108,7 @@
                       <div class="ss-cable-image1">
                         <img src="./img/marker.png" class="img-fluid rounded" alt="">
                       </div>
-                      <div class="ss-cable-image3">
+                      <div class="ss-cable-image3 mb-5">
                       <img src="./img/ss_marker_tag.png" class="img-fluid rounded" alt="">
                       </div>
                   </div>
@@ -113,16 +116,13 @@
 
              
              <div class="elementor-spacer-inner"></div>
-
-
-            
-
+             
              <div class="col-lg-6">
              <div class="ss-cable-images d-flex">
                       <div class="ss-cable-image1">
                         <img src="https://www.giantlok.in/wp-content/uploads/2020/05/02-Releasable-Type-Stainless-Steel-Ties.jpg" class="img-fluid rounded" alt="">
                       </div>
-                      <div class="ss-cable-image3">
+                      <div class="ss-cable-image3 mb-5">
                       <img src="./img/ss_releaseable_tie.png" class="img-fluid rounded" alt="">
                       </div>
                   </div>
@@ -137,9 +137,6 @@
                                 
                     </div>
              <div class="elementor-spacer-inner"></div>
-             
-           
-
 
              <div class="col-lg-6">
                          <span class="offer-span text-white">SS Buckle </span>

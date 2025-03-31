@@ -496,6 +496,13 @@ left: 6px;
   height: 25.5rem;
 }
 }
+
+@media (max-width:768px) {
+  .offer-h{
+    font-size: 2.5rem;
+  }
+  
+}
 @media (max-width: 480px) {
   .navbar-collapse {
     flex-basis: 100%;
@@ -521,7 +528,7 @@ left: 6px;
   font-size: 2.3rem;
 }
 .offer-h{
-  font-size: 2.2rem;
+  font-size: 1.9rem;
 } 
 .video-container{
   min-height: 14rem;
@@ -555,12 +562,7 @@ left: 6px;
 /*** Index Page End  ***/
 
 
-/*** About Page Start ***/
-.card-width{
-  max-width: 35rem;
-}
 
-/*** About Page End ***/
 
 /*** Contact Page Start  ***/
 .banner-contact{
@@ -587,11 +589,23 @@ left: 6px;
 .contact-background{
   background-color: #f8f8f8;
 }
+@media (max-width: 768px) {
+.banner-contact h1{
+  font-size: 3rem;
+  margin-top: 25vh;
+}
+  
+}
+
 
 
 /*** Contact Page End ***/
 
-/*** About Page Quality Section ***/
+/*** About Page Start ***/
+.card-width{
+  max-width: 35rem;
+}
+
 .mail{
   background-color: #FA4729;
   padding: 20px;
@@ -695,10 +709,31 @@ left: 6px;
   height: 300px;
   width: 300px;
 }
+@media (max-width: 990px) {
+  .bottom-margin{
+    margin-bottom: 30rem !important;
+  }
+}
+@media (max-width:480px) {
 
-/*** About Page Quality Section ***/
+  .minus-margin{
+    margin-top: -7rem;
+  }
+  .quality-image2{
+    right: -1rem;
+  }
+  .quality-image12{
+    top: 27rem;
+      left: -1rem;
+  }
+  .about .bottom-margin{
+    margin-bottom: 40rem !important;
+  }
+}
 
-/* Product Section Start */
+/*** About Page End ***/
+
+/* Product Page Start */
 .copper-lug-images{
   position: relative;
 }
@@ -769,5 +804,29 @@ left: 6px;
 .bg-red{
   background-color: #FA4729;
 }
+@media (max-width:768px) {
 
-/* Product Section End */
+.copper-lug-image3{
+  position: relative;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  background-image: none;
+}
+.copper-lug-image1{
+  display: none;
+}
+.ss-cable-image1{
+  display: none;
+}
+.ss-cable-image3{
+  position: relative;
+  top: 0rem;
+  right: 0rem;
+  height: 100%;
+  width: 100%;
+}
+  
+}
+
+/* Product Page End */
