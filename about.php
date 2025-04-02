@@ -66,6 +66,9 @@
     
  </div>
 
+
+
+
  <div class="row">
     <div class="col-lg-12 d-flex gap-5 p-4 mt-5 flex-wrap mb-5 justify-content-center">
         
@@ -89,6 +92,78 @@
 
     </div>
  </div>
+
+ <div class="container-fluid mb-5 mt-5">
+        <!-- <div class="elementor-spacer-inner"></div> -->
+            <div class="container">
+                <div class="row">
+                <div class="col-lg-6">
+                    <span class="offer-span"> The Difference Is in the Details</span>
+                    <h2 class="offer-h">More Than Just Manufacturing</h2> 
+                </div>
+                <div class="col-lg-6">
+                    <p class="offer-p fs-7">
+                    At Sunil Engineering Works, precision is our priority. Every cut, bend, and finish is executed with meticulous attention to detail, ensuring superior quality and durability in every product.
+                    </p>
+                    <p class="offer-p fs-7">
+                    We don’t just fabricate metal—we craft solutions. Our commitment goes beyond production; we innovate, optimize, and deliver products that add real value to your business.
+                    </p> 
+                </div>
+            </div>
+
+            <div class="row" id="difference">
+    <div class="col-lg-6 col-md-6 mt-5">
+            <div class="card metal d-flex h-100  bg-transparent border-0" id="metal-manufacturing">
+                
+                <img src="https://img.freepik.com/premium-vector/vector-design-industry-icon-style_822882-251235.jpg" class="img-fluid" height="100px" width="100px" alt="">
+                <h3 class="w-75 text-indigo">Sheet Metal Manufacturing </h3>
+                <p class="offer-p fs-7">
+                We specialize in precision sheet metal fabrication, delivering high-quality products tailored to industry needs. Our advanced techniques ensure durability and accuracy in every component we produce.
+                </p>
+                <!-- <a href="" class="text-decoration-none"><span class="text-indigo  fs-7"> Read More</span> <i class="fa-solid fa-arrow-right text-indigo mt-3 arrow"></i></a> -->
+            </div>
+        </div>
+
+        <div class="col-lg-6 col-md-6 mt-5">
+            <div class="card oil d-flex h-100  bg-transparent border-0">
+                
+                <img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRJ35qZMGe2a17fkKCGzGOV8iGq_ly4ROHccQMcwPzOPjCxpVbL" class="img-fluid" height="100px" width="100px" alt="">
+                <h3 class="w-75 text-indigo">Eco Friendly Practices</h3>
+                <p class="offer-p fs7">
+                Sustainability is at the core of our operations. We utilize energy-efficient processes, minimize waste, and follow environmentally responsible manufacturing practices to reduce our carbon footprint.
+                </p>
+                <!-- <i class="fa-solid fa-arrow-right mt-3"></i> -->
+                <!-- <a href="" class="text-decoration-none"><span class="text-indigo  fs-7"> Read More</span> <i class="fa-solid fa-arrow-right text-indigo mt-3"></i></a> -->
+            </div>
+        </div>
+
+        <div class="col-lg-6 col-md-6 mt-5">
+            <div class="card power d-flex h-100 bg-transparent border-0">
+                
+                <img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTPYchbwqGFMowMUPCrkgcK78bcU1YyxTV7sxff4wq50WEokMmt" class="img-fluid" height="100px" width="100px" alt="">
+                <h3 class="w-75 text-indigo">Advanced Machine</h3>
+                <p class="offer-p fs-7">Equipped with state-of-the-art machinery, we guarantee precision, efficiency, and consistency in production. Our modern technology enables us to handle complex projects with ease.</p>
+                <!-- <a href="" class="text-decoration-none"><span class="text-indigo  fs-7"> Read More</span> <i class="fa-solid fa-arrow-right text-indigo mt-3"></i></a> -->
+            </div>
+        </div>
+
+        <div class="col-lg-6 col-md-6 mt-5">
+            <div class="card construction d-flex h-100  bg-transparent border-0">
+                
+                <img src="./img/worker.png" class="img-fluid" height="100px" width="100px" alt="">
+                <h3 class="w-75 text-indigo">Experience  workers </h3>
+                <p class="offer-p fs-7">
+                Our skilled workforce brings years of expertise to every project. With a deep understanding of metal fabrication, our team ensures top-notch craftsmanship and superior product quality.
+                </p>
+                <!-- <a href="" class="text-decoration-none"><span class="text-indigo   fs-7" > Read More</span> <i class="fa-solid fa-arrow-right text-indigo mt-3"></i></a> -->
+                
+            </div>
+        </div>
+
+    </div>
+            </div>
+</div>
+
 
  <!-- <div class="container"> -->
      <!-- Video-->

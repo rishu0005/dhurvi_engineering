@@ -22,9 +22,7 @@
     </div>
 </div>
 
-<div class="container">
-  
-</div>
+
 
 <div class="container-fluid bg-indigo">
     <div class="container ">
@@ -167,6 +165,5 @@
 
 </div>
 <!-- <div class="elementor-spacer-inner"></div> -->
-
 
 <?php include 'footer.php'; ?>

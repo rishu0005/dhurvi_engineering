@@ -53,7 +53,7 @@
                 
                 <img src="https://img.freepik.com/premium-vector/vector-design-industry-icon-style_822882-251235.jpg" class="img-fluid" height="100px" width="100px" alt="">
                 <h3 class="w-75 text-indigo">Sheet Metal Manufacturing </h3>
-                <a href="" class="text-decoration-none"><span class="text-indigo  fs-7"> Read More</span> <i class="fa-solid fa-arrow-right text-indigo mt-3 arrow"></i></a>
+                <a href="about.php#difference" class="text-decoration-none"><span class="text-indigo  fs-7"> Read More</span> <i class="fa-solid fa-arrow-right text-indigo mt-3 arrow"></i></a>
             </div>
         </div>
 
@@ -63,7 +63,7 @@
                 <img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRJ35qZMGe2a17fkKCGzGOV8iGq_ly4ROHccQMcwPzOPjCxpVbL" class="img-fluid" height="100px" width="100px" alt="">
                 <h3 class="w-75 text-indigo">Eco Friendly Practices</h3>
                 <!-- <i class="fa-solid fa-arrow-right mt-3"></i> -->
-                <a href="" class="text-decoration-none"><span class="text-indigo  fs-7"> Read More</span> <i class="fa-solid fa-arrow-right text-indigo mt-3"></i></a>
+                <a href="about.php#difference" class="text-decoration-none"><span class="text-indigo  fs-7"> Read More</span> <i class="fa-solid fa-arrow-right text-indigo mt-3"></i></a>
             </div>
         </div>
 
@@ -72,7 +72,7 @@
                 
                 <img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTPYchbwqGFMowMUPCrkgcK78bcU1YyxTV7sxff4wq50WEokMmt" class="img-fluid" height="100px" width="100px" alt="">
                 <h3 class="w-75 text-indigo">Advanced Machine</h3>
-                <a href="" class="text-decoration-none"><span class="text-indigo  fs-7"> Read More</span> <i class="fa-solid fa-arrow-right text-indigo mt-3"></i></a>
+                <a href="about.php#metal-manufacturing" class="text-decoration-none"><span class="text-indigo  fs-7"> Read More</span> <i class="fa-solid fa-arrow-right text-indigo mt-3"></i></a>
             </div>
         </div>
 
@@ -81,7 +81,7 @@
                 
                 <img src="./img/worker.png" class="img-fluid" height="100px" width="100px" alt="">
                 <h3 class="w-75 text-indigo">Experience  workers </h3>
-                <a href="" class="text-decoration-none"><span class="text-indigo   fs-7" > Read More</span> <i class="fa-solid fa-arrow-right text-indigo mt-3"></i></a>
+                <a href="about.php#metal-manufacturing" class="text-decoration-none"><span class="text-indigo   fs-7" > Read More</span> <i class="fa-solid fa-arrow-right text-indigo mt-3"></i></a>
                 
             </div>
         </div>
@@ -134,7 +134,7 @@
 <!-- World Class Quality End -->
 
 <!-- How we Work Start -->
-<div class="container-fluid how-we-work">
+<div class="container-fluid how-we-work">   
     <div class="container">
         <div class="row">
             <div class="col-lg-12 d-flex flex-column justify-content-center align-items-center">
