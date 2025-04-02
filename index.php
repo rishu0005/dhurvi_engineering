@@ -41,9 +41,9 @@
             <h1 class="offer-h">Unrivaled Mastery in Metal Fabrication</h1>
         </div>
         <div class="col-md-6">
-            <p class="offer-p mt-5 fs-7">Dhruvi Engineering stands at the pinnacle of precision, mastering the art of sheet metal fabrication and progressive die stamping. With an unwavering commitment to excellence, we craft bespoke solutions that blend innovation with timeless durability. </p>
+            <p class="offer-p mt-5 fs-7">Druvi Engineering stands at the pinnacle of precision, mastering the art of sheet metal fabrication and progressive die stamping. With an unwavering commitment to excellence, we craft bespoke solutions that blend innovation with timeless durability. </p>
 
-            <p class="offer-p fs-7">Our state-of-the-art engineering ensures flawless execution, meeting the highest standards of sophistication and efficiency. Elevate your expectations experience the legacy of precision and luxury with Dhruvi Engineering.</p>
+            <p class="offer-p fs-7">Our state-of-the-art engineering ensures flawless execution, meeting the highest standards of sophistication and efficiency. Elevate your expectations experience the legacy of precision and luxury with Druvi Engineering.</p>
         </div>
         </div>
     </div>
@@ -115,7 +115,7 @@
             <div class="d-flex flex-column justify-content-between">
                  <span class="offer-span margin-top">Flawless Execution</span>
            <h1 class="offer-h">World Class quality is our priority </h1>
-           <p class="text-indigo fs-7">At Dhruvi Engineering, world-class quality is our priority, ensuring precision, durability, and excellence in every product. With advanced technology and meticulous craftsmanship, we set new industry standards</p>
+           <p class="text-indigo fs-7">At Druvi Engineering, world-class quality is our priority, ensuring precision, durability, and excellence in every product. With advanced technology and meticulous craftsmanship, we set new industry standards</p>
 
            <div class="d-flex justify-content-centre align-items-center img img-space crd-image ">
                <img src="https://img.freepik.com/free-photo/bearded-shoemaker-glasses-is-creating-new-pair-shoes-using-special-machine_613910-12944.jpg?ga=GA1.1.1643490475.1742809442&semt=ais_hybrid" class="img-fluid h-100  crd-image-top " alt="">

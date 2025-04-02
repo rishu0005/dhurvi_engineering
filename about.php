@@ -16,9 +16,9 @@
         </div>
         <div class="col-md-6">
         <p class="offer-p fs-7">
- Dhurvi Engineering has been a trusted name in the sheet metal and progressive die industry, delivering high-quality solutions with precision, durability, and innovation. Based in Vasai (E), Dist. Palghar, we specialize in manufacturing progressive dies and sheet metal components that meet the highest industry standards. With decades of expertise, advanced technology, and stringent quality control, we ensure excellence in dimensional accuracy, performance, and longevity. 
+ Druvi Engineering has been a trusted name in the sheet metal and progressive die industry, delivering high-quality solutions with precision, durability, and innovation. Based in Vasai (E), Dist. Palghar, we specialize in manufacturing progressive dies and sheet metal components that meet the highest industry standards. With decades of expertise, advanced technology, and stringent quality control, we ensure excellence in dimensional accuracy, performance, and longevity. 
 </p>
-<p class="offer-p fs-7">At Dhurvi Engineering, we don’t just create components—we craft solutions that drive industries forward.</p>
+<p class="offer-p fs-7">At Druvi Engineering, we don’t just create components—we craft solutions that drive industries forward.</p>
   </div>
         </div>
     </div>
@@ -359,11 +359,11 @@
      <div class="container">
          <div class="row">
              <div class="col-lg-6">
-                <span class="offer-span">The Heart of Dhurvi Engineering</span>
+                <span class="offer-span">The Heart of Druvi Engineering</span>
                 <h2 class="offer-h">Our Workforce, Tools And Creations</h2>
              </div>
              <div class="col-lg-6">
-                <p class="offer-p">At Dhurvi Engineering, our success is driven by a skilled workforce, advanced machinery, and top-quality products. Together, they define our commitment to precision, innovation, and excellence. From expert craftsmanship to cutting-edge technology, every component we create meets the highest industry standards.</p>
+                <p class="offer-p">At Druvi Engineering, our success is driven by a skilled workforce, advanced machinery, and top-quality products. Together, they define our commitment to precision, innovation, and excellence. From expert craftsmanship to cutting-edge technology, every component we create meets the highest industry standards.</p>
 
                 <p class="offer-p">
                 Our commitment to craftsmanship and customer satisfaction drives our reputation as a trusted leader in engineering solutions.

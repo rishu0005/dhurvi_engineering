@@ -15,9 +15,9 @@
         </div>
         <div class="col-md-6">
             <p class="offer-p fs-7">
-            At Dhurvi Engineering, we specialize in manufacturing high-quality, precision-engineered products that meet industry standards. Our advanced technology, rigorous quality control, and expert craftsmanship ensure durability, performance, and reliability. From custom components to specialized solutions, our products are designed to power industries forward.
+            At Druvi Engineering, we specialize in manufacturing high-quality, precision-engineered products that meet industry standards. Our advanced technology, rigorous quality control, and expert craftsmanship ensure durability, performance, and reliability. From custom components to specialized solutions, our products are designed to power industries forward.
             </p>
-            <p class="offer-p fs-7">At Dhurvi Engineering, we specialize in manufacturing high-quality, precision-engineered products that meet industry standards. Our advanced technology, rigorous quality control, and expert craftsmanship ensure durability, performance, and reliability. From custom components to specialized solutions, our products are designed to power industries forward.</p>
+            <p class="offer-p fs-7">At Druvi Engineering, we specialize in manufacturing high-quality, precision-engineered products that meet industry standards. Our advanced technology, rigorous quality control, and expert craftsmanship ensure durability, performance, and reliability. From custom components to specialized solutions, our products are designed to power industries forward.</p>
         </div>
     </div>
 </div>

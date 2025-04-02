@@ -42,7 +42,7 @@
             <div class="d-flex flex-column justify-content-between">
                  <span class="offer-span margin-top text-white">Our Machines</span>
            <h1 class="offer-h text-white">World Class quality is our priority </h1>
-           <p class="text-white fs-7">At Dhruvi Engineering, world-class quality is our priority, ensuring precision, durability, and excellence in every product. With advanced technology and meticulous craftsmanship, we set new industry standards</p>
+           <p class="text-white fs-7">At Druvi Engineering, world-class quality is our priority, ensuring precision, durability, and excellence in every product. With advanced technology and meticulous craftsmanship, we set new industry standards</p>
 
            <div class="d-flex justify-content-centre align-items-center img img-space crd-image ">
                <img src="./img/workers.jpeg" class="img-fluid h-100 w-100 crd-image-bottom " alt="">

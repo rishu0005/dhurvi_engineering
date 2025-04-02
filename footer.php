@@ -6,7 +6,7 @@
             <div class="row p-1">
              <div class="col-md-12 col-sm-12"> 
                 <div class="text-light  mt-5 ">
-                    <h1 class="width">Driven by Excellence, Defined by Perfection: Dhruvi Engineering</h1>
+                    <h1 class="width">Driven by Excellence, Defined by Perfection: Druvi Engineering</h1>
                 </div>
             </div>
                
@@ -66,7 +66,7 @@
                 
                 <div class="text-center ">
                     <hr class="border">
-              <p class="color mt-2">Copyright © 2025, All rights are reserved by Dhruvi Engineering and Developed by DeltaSoft.</p>
+              <p class="color mt-2">Copyright © 2025, All rights are reserved by Druvi Engineering and Developed by DeltaSoft.</p>
           </div>
             </div>
               
