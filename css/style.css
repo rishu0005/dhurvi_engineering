@@ -198,6 +198,11 @@ left: 6px;
   font-size: 3.5rem;
   color: #181d4e;
 }
+.product-offer-h{
+  line-height: 1.1;
+  font-size: 3.1rem;
+  color: #181d4e;
+}
  .quality{
   /* font-size: 4rem !important; */
   max-width: 30rem;
@@ -498,7 +503,7 @@ left: 6px;
 }
 
 @media (max-width:768px) {
-  .offer-h{
+  .offer-h, .product-offer-h{
     font-size: 2.5rem;
   }
   
@@ -527,7 +532,7 @@ left: 6px;
 .hero-title{
   font-size: 2.3rem;
 }
-.offer-h{
+.offer-h, .product-offer-h{
   font-size: 1.9rem;
 } 
 .video-container{

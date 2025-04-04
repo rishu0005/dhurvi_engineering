@@ -53,10 +53,9 @@
 
              <div class="col-lg-6">
                     <span class="offer-span text-white">SS Cable Tie</span>
-                    <h2 class="offer-h text-white">High-Performance Copper Lugs – Built to Last</h2>
+                    <h2 class="offer-h text-white">SS Cable Ties – Reliable Fastening for Every Environment</h2>
                     <p class="offer-p text-light mt-3">
-                    Crafted from high-quality copper, our lugs ensure superior conductivity and corrosion resistance. Designed for durability, they provide secure electrical connections in industrial, automotive, and residential applications. The precision-engineered design allows for easy crimping and reliable performance under extreme conditions. With high thermal stability and exceptional mechanical strength, our copper lugs enhance electrical efficiency. Choose from a range of sizes to meet your specific needs.
-                    </p>
+                    Our SS Cable Ties are built to last. Made from premium-grade stainless steel, they’re perfect for bundling wires, securing hoses, or handling heavy-duty tasks in challenging conditions. Whether it’s outdoor, automotive, or industrial use, these ties won’t let you down.                    </p>
                 
              </div>
              <div class="col-lg-6">
@@ -84,19 +83,18 @@
 
              <div class="col-lg-6">
                     <span class="offer-span text-white">SS ladder</span>
-                    <h2 class="offer-h text-white">High-Performance Copper Lugs – Built to Last</h2>
+                    <h2 class="offer-h text-white">SS Ladder – Strong, Sleek & Long-Lasting</h2>
                     <p class="offer-p text-light mt-3">
-                    Crafted from high-quality copper, our lugs ensure superior conductivity and corrosion resistance. Designed for durability, they provide secure electrical connections in industrial, automotive, and residential applications. The precision-engineered design allows for easy crimping and reliable performance under extreme conditions. With high thermal stability and exceptional mechanical strength, our copper lugs enhance electrical efficiency. Choose from a range of sizes to meet your specific needs.
-                    </p>
+                    Our Stainless Steel Ladders combine sleek design with high durability. Perfect for industrial plants, factories, or cleanroom environments, they’re designed to resist corrosion, wear, and weathering. Lightweight yet strong, with precision welding and polished finish for easy cleaning and superior appearance.                    </p>
                 
              </div>
              <div class="elementor-spacer-inner"></div>
 
                 <div class="col-lg-6">
                          <span class="offer-span text-white">SS Marker Tag</span>
-                        <h2 class="offer-h text-white">High-Performance Copper Lugs – Built to Last</h2>
+                        <h2 class="offer-h text-white">SS Marker Tags – Rust-Proof, Heat-Resistant Labels </h2>
                         <p class="offer-p text-light mt-3">
-                         Crafted from high-quality copper, our lugs ensure superior conductivity and corrosion resistance. Designed for durability, they provide secure electrical connections in industrial, automotive, and residential applications. The precision-engineered design allows for easy crimping and reliable performance under extreme conditions. With high thermal stability and exceptional mechanical strength, our copper lugs enhance electrical efficiency. Choose from a range of sizes to meet your specific needs.
+                        These stainless steel marker tags are perfect for labeling cables, equipment, and valves in challenging settings. With strong resistance to rust and wear, they ensure clear identification even in outdoor or high-temperature areas. Available in multiple sizes, with or without pre-drilled holes for easy mounting.
                         </p>
                                 
                             </div>
@@ -128,9 +126,9 @@
 
              <div class="col-lg-6">
                          <span class="offer-span text-white">SS Releaseable Tie</span>
-                        <h2 class="offer-h text-white">High-Performance Releaseable Tie – Built to Last</h2>
+                        <h2 class="offer-h text-white">SS Releasable Ties – Reusable Fastening for Heavy-Duty</h2>
                         <p class="offer-p text-light mt-3">
-                         Crafted from high-quality copper, our lugs ensure superior conductivity and corrosion resistance. Designed for durability, they provide secure electrical connections in industrial, automotive, and residential applications. The precision-engineered design allows for easy crimping and reliable performance under extreme conditions. With high thermal stability and exceptional mechanical strength, our copper lugs enhance electrical efficiency. Choose from a range of sizes to meet your specific needs.
+                        Designed for convenience and strength, these stainless steel releasable ties are perfect for jobs that require temporary or adjustable bundling. With a smooth release mechanism and rust-proof body, they’re ideal for cable management in harsh or outdoor environments. Reuse them as often as needed without compromising grip.
                         </p>
                                 
                     </div>
@@ -138,9 +136,9 @@
 
              <div class="col-lg-6">
                          <span class="offer-span text-white">SS Buckle </span>
-                        <h2 class="offer-h text-white">High-Performance Buckle  – Built to Last</h2>
+                        <h2 class="offer-h text-white">SS Buckles – Strong, Rust-Resistant & Easy to Use</h2>
                         <p class="offer-p text-light mt-3">
-                         Crafted from high-quality copper, our lugs ensure superior conductivity and corrosion resistance. Designed for durability, they provide secure electrical connections in industrial, automotive, and residential applications. The precision-engineered design allows for easy crimping and reliable performance under extreme conditions. With high thermal stability and exceptional mechanical strength, our copper lugs enhance electrical efficiency. Choose from a range of sizes to meet your specific needs.
+                        These stainless steel buckles are the perfect partner for SS banding straps. Made to withstand heat, moisture, and chemical exposure, they provide reliable fastening for cable bundling, sign mounting, pole attachments, and more. Available in various sizes to fit different strap widths.
                         </p>
                                 
                 </div>
