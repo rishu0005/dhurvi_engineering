@@ -10,11 +10,11 @@
 <div class="container-fluid">
     <div class="container">
         <div class="row mt-5 mb-5">
-            <div class="col-lg-6">
+            <div class="col-lg-6 mt-5">
                 <span class="offer-span">Our Machinery</span>
                 <h2 class="offer-h">Smart Machines, Smarter Engineering
             </div>
-            <div class="col-lg-6">
+            <div class="col-lg-6 mt-5 mb-5">
                 <p class="offer-p fs-7">
                 Machines are one of the most important aspects of Druvi Engineering Company because they enable precision, efficiency, and scalability in manufacturing processes. The use of advanced machinery ensures high-quality production, reduces human error, and boosts overall productivity, allowing the company to meet client demands swiftly and effectively. <br><br>
                  This technological edge supports the company's ability to deliver innovative engineering solutions.

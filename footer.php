@@ -48,16 +48,16 @@
                     <h3 class="text-light">Pages</h3>
                     <ul class="list-unstyled">
                         <li class="mt-3">
-                            <a class="text-decoration-none  color" href="">Home</a>
+                            <a class="text-decoration-none  color" href="index.php">Home</a>
                         </li>
                         <li>
-                            <a class="text-decoration-none mt-2 color" href="">About us</a>
+                            <a class="text-decoration-none mt-2 color" href="about.php">About us</a>
                         </li>
                         <li>
-                            <a class="text-decoration-none  mt-2  color" href="">Products</a>
+                            <a class="text-decoration-none  mt-2  color" href="product.php">Products</a>
                         </li>
                         <li>
-                            <a class="text-decoration-none mt-2 color" href="">Contact</a>
+                            <a class="text-decoration-none mt-2 color" href="contact.php">Contact</a>
                         </li>
                     </ul>
                 </div> 

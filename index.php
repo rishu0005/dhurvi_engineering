@@ -14,12 +14,12 @@
                 
             <div class="col-md-12  pb-4">
                 <div class=" ">
-                    <h1 class="w-75 hero-title">Excellence in Precision Engineering </h1>
-                <p class=" fs-5 mt-4 word-wrap w-75 banner-p">Precision engineering specializing in stainless steel solutions, progressive dies, and high-quality manufacturing for various industrial applications.
+                    <h1 class="w-75 hero-title">A Legacy of Excellence in Tool and Die Making </h1>
+                <p class=" fs-5 mt-4 word-wrap w-75 banner-p">Druvi Engineering has been a trusted name in the sheet metal and progressive die industry, delivering high-quality solutions with precision, durability, and innovation.
                 </p>
                <div class="btn-left">
 
-                   <button class="btn-red text-light px-5 ">About Us</button>
+                   <a href="about.php" class="btn-red text-light px-5 ">About Us</a>
                </div>
                 </div></div>
            
@@ -49,7 +49,7 @@
     </div>
     <div class="row">
     <div class="col-lg-3 col-md-6 mt-5">
-            <div class="card metal d-flex h-100  bg-transparent border-0">
+            <div class="card metal-card metal d-flex h-100  bg-transparent border-0">
                 
                 <img src="https://img.freepik.com/premium-vector/vector-design-industry-icon-style_822882-251235.jpg" class="img-fluid" height="100px" width="100px" alt="">
                 <h3 class="w-75 text-indigo">Sheet Metal Manufacturing </h3>
@@ -58,7 +58,7 @@
         </div>
 
         <div class="col-lg-3 col-md-6 mt-5">
-            <div class="card oil d-flex h-100  bg-transparent border-0">
+            <div class="card oil metal-card d-flex h-100  bg-transparent border-0">
                 
                 <img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRJ35qZMGe2a17fkKCGzGOV8iGq_ly4ROHccQMcwPzOPjCxpVbL" class="img-fluid" height="100px" width="100px" alt="">
                 <h3 class="w-75 text-indigo">Eco Friendly Practices</h3>
@@ -68,7 +68,7 @@
         </div>
 
         <div class="col-lg-3 col-md-6 mt-5">
-            <div class="card power d-flex h-100 bg-transparent border-0">
+            <div class="card power metal-card d-flex h-100 bg-transparent border-0">
                 
                 <img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTPYchbwqGFMowMUPCrkgcK78bcU1YyxTV7sxff4wq50WEokMmt" class="img-fluid" height="100px" width="100px" alt="">
                 <h3 class="w-75 text-indigo">Advanced Machine</h3>
@@ -77,7 +77,7 @@
         </div>
 
         <div class="col-lg-3 col-md-6 mt-5">
-            <div class="card construction d-flex h-100  bg-transparent border-0">
+            <div class="card metal-card construction d-flex h-100  bg-transparent border-0">
                 
                 <img src="./img/worker.png" class="img-fluid" height="100px" width="100px" alt="">
                 <h3 class="w-75 text-indigo">Experience  workers </h3>
@@ -224,8 +224,8 @@
                 </div>
                 <div class="col-lg-12 text-center mt-4 mb-4">
 
-                    <button class="text-light product-btn  shadow btn border border-light p-2">View All</button>
-                </div>
+                    <a href="product.php" class="text-light product-btn  shadow btn border border-light p-2">View All</a>
+                </div> 
             </div>
         </div>
     </div>

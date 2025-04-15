@@ -52,7 +52,7 @@
      	<!-- Mobile Number -->
        <div class="d-flex ms-auto">
         <span class="navbar-text  text-dark">
-          <i class="fa-solid fa-phone-volume"></i> <a href="tel:+917507483383" class="text-dark fs-5  ">+91 7507483383</a> / <a href="tel:+91 9325682260" class="text-dark  fs-5"> 9325682260</a>
+          <i class="fa-solid fa-phone-volume"></i> <a href="tel:+917507483383" class="text-dark fs-5 text-decoration-none  ">+91 7507483383</a> / <a href="tel:+91 9325682260" class="text-dark text-decoration-none fs-5"> 9325682260</a>
         </span>
       </div>
   </div>

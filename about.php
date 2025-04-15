@@ -92,7 +92,7 @@
 
     </div>
  </div>
-
+<!-- Manufacturing Section Start    -->
  <div class="container-fluid mb-5 mt-5">
         <!-- <div class="elementor-spacer-inner"></div> -->
             <div class="container">
@@ -105,15 +105,15 @@
                     <p class="offer-p fs-7">
                     At Sunil Engineering Works, precision is our priority. Every cut, bend, and finish is executed with meticulous attention to detail, ensuring superior quality and durability in every product.
                     </p>
-                    <p class="offer-p fs-7">
+                    <p class="offer-p fs-7" id="difference">
                     We don’t just fabricate metal—we craft solutions. Our commitment goes beyond production; we innovate, optimize, and deliver products that add real value to your business.
                     </p> 
                 </div>
             </div>
 
-            <div class="row" id="difference">
+            <div class="row difference-section" >
     <div class="col-lg-6 col-md-6 mt-5">
-            <div class="card metal d-flex h-100  bg-transparent border-0" id="metal-manufacturing">
+            <div class="card difference-card metal d-flex h-100  bg-transparent border-0" id="metal-manufacturing">
                 
                 <img src="https://img.freepik.com/premium-vector/vector-design-industry-icon-style_822882-251235.jpg" class="img-fluid" height="100px" width="100px" alt="">
                 <h3 class="w-75 text-indigo">Sheet Metal Manufacturing </h3>
@@ -125,7 +125,7 @@
         </div>
 
         <div class="col-lg-6 col-md-6 mt-5">
-            <div class="card oil d-flex h-100  bg-transparent border-0">
+            <div class="card oil difference-card d-flex h-100  bg-transparent border-0">
                 
                 <img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRJ35qZMGe2a17fkKCGzGOV8iGq_ly4ROHccQMcwPzOPjCxpVbL" class="img-fluid" height="100px" width="100px" alt="">
                 <h3 class="w-75 text-indigo">Eco Friendly Practices</h3>
@@ -138,7 +138,7 @@
         </div>
 
         <div class="col-lg-6 col-md-6 mt-5">
-            <div class="card power d-flex h-100 bg-transparent border-0">
+            <div class="card power difference-card d-flex h-100 bg-transparent border-0">
                 
                 <img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTPYchbwqGFMowMUPCrkgcK78bcU1YyxTV7sxff4wq50WEokMmt" class="img-fluid" height="100px" width="100px" alt="">
                 <h3 class="w-75 text-indigo">Advanced Machine</h3>
@@ -148,7 +148,7 @@
         </div>
 
         <div class="col-lg-6 col-md-6 mt-5">
-            <div class="card construction d-flex h-100  bg-transparent border-0">
+            <div class="card difference-card construction d-flex h-100  bg-transparent border-0">
                 
                 <img src="./img/worker.png" class="img-fluid" height="100px" width="100px" alt="">
                 <h3 class="w-75 text-indigo">Experience  workers </h3>
@@ -163,6 +163,7 @@
     </div>
             </div>
 </div>
+<!-- Manufacturing Section End -->
 
 
  <!-- <div class="container"> -->
@@ -212,14 +213,15 @@
               <span class="offer-span text-white">Quality Work</span>
                  <h1 class="offer-h quality text-white">Quality That Speaks for Itself</h1>
                  
-                 <p class="text-secondary fs-7 mb-3 mt-4">Adipiscing elit, sed do eiusmod tempor incididunt labore dolore magna aliqua. Ut enim ad minim veniam, quisq wiusmod ut tempor incididunt ut labore et dolore sed do magna aliqua.</p>
+                 <p class="text-secondary fs-7 mb-3 mt-4">We don’t just promise quality  we deliver it. Our expert team ensures every job is done right the first time, with results you can see and trust. <br><br>
+                 Your safety and satisfaction are our top priorities that's the Druvi Engineering   standard.</p>
                  <span class="mt-5">
                   <!-- <p class="text-indigo fw-bold"><i class="fa-regular fa-envelope mail me-3 fs-5"></i> info@example.com</span></p> -->
       
                  <div class="progress-container mt-5">
                       <div class="fabrication-progress-container mb-3">
                       
-                              <span class="offer-p text-white fs-7">Fabrication</span>
+                              <span class="offer-p text-white fs-7">Performance</span>
                               <span class="offer-p text-white fs-7 span-fabric" > 80%</span>
                          
                           <div class="progress mt-2">
@@ -228,7 +230,7 @@
                       </div>
       
                       <div class="machining-progress-container mb-3">
-                          <span class="offer-p fs-7 text-white">Machining</span>
+                          <span class="offer-p fs-7 text-white">Long Lasting</span>
                           <span class="offer-p fs-7 text-white span-machining">95%</span>
                           <div class="progress mt-2">
                               <div class="machining-progress"></div>
@@ -236,7 +238,7 @@
                       </div>
       
                       <div class="construction-progress-container mb-5">
-                          <span class="offer-p fs-7 text-white"> Construction</span>
+                          <span class="offer-p fs-7 text-white"> Product Quality</span>
                           <span class="offer-p fs-7 text-white span-construction"> 90%</span>
                           <div class="progress mt-2">
                               <div class="construction-progress"></div>
