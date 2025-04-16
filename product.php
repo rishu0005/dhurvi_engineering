@@ -9,7 +9,7 @@
 <div class="container">
     <div class="row ">
     <div class="elementor-spacer-inner"></div>
-        <div class="col-md-6">
+        <div class="col-md-6 ">
             <span class="offer-span">Our Premium Products</span>
             <h2 class="offer-h">Crafting Excellence, One Product at a Time</h2>
         </div>
