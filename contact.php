@@ -14,10 +14,16 @@
                 <div class="text-left mt-5">
                     <h3 class="text-indigo">Contact Details</h3>
                     <p class="mt-4 text-muted mb-4 offer-p fs-5">Sheetal Ind. No.6, Gala No.11, Navghar, Vasai (E), Dist. Palghar - 401 209</p>
-
+<div class="gst-no mb-3">
+                        <span class="offer-p fs-7">
+                            GST NO. : 27BDXPC9189H1ZP
+                        </span>
+                    </div>
                     <span class="offer-p fs-5">druviengineering29@gmail.com</span>
                     <h4 class="mt-4 text-indigo">+91 9325682260</h4>
-                    <h4 class="mt-4 text-indigo">+91 9325682260</h4>
+                    <h4 class="mt-4 text-indigo">+91 7507483383</h4>
+
+                    
                     <div class="social mt-4">
                     <i class="fa-brands fa-facebook-f icon fs-5"></i>
                     <i class="fa-brands fa-x-twitter icon  fs-5"></i>
@@ -69,7 +75,7 @@
         </div>
     </div>
 </div>
-<div class="container-fluid">
+<div class="container-fluid p-0">
     <div class="row">
 
         <div class="col-lg-12">

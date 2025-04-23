@@ -19,7 +19,7 @@
                 </p>
                <div class="btn-left">
 
-                   <a href="about.php" class="btn-red text-light px-5 ">About Us</a>
+                   <a href="about.php" class="btn-red text-light px-5 text-decoration-none ">About Us</a>
                </div>
                 </div></div>
            

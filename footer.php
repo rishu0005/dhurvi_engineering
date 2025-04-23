@@ -12,13 +12,19 @@
                
 
 <!-- <div class="d-flex justify-content-center align-items-center"> -->
-                <div class="col-md-4 col-sm-12">
+                <div class="col-md-3 col-sm-12">
                     <h3 class="text-light mt-5">Address</h3>
-                    <p class="color w-50">Sheetal Ind. No.6, Gala No. 11, Navghar, Vasai (E),
+                    <p class="color w-75">Sheetal Ind. No.6, Gala No. 11, Navghar, Vasai (E),
                         Dist. Palghar - 401 210
                     </p>
                 </div>
-                <div class="col-md-4 col-sm-12 mt-5">
+                <div class="col-md-2 col-sm-12">
+                <h3 class="text-light mt-5">GST No.</h3>
+                <p class="color">27BDXPC9189H1ZP</p>
+
+                    
+            </div>
+                <div class="col-md-3 col-sm-12 mt-5">
                     <h3 class="text-light"> Say Hello </h3>
                     <p class="color"><span></span>druviengineering29@gmail.com</p>
                     <h4 class="text-light">+91 7507483383

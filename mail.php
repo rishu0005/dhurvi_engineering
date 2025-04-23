@@ -12,7 +12,7 @@ if(isset($_POST['email']))
         $address = $_POST['address'];
         $message=$_POST['message'];
         $to = 'customercare@durviengineering.in';
-        $subject = 'A new email has arrived from your website morya luxury car care';
+        $subject = 'A new email has arrived from your website Druvi Enginnering';
         $headers  = 'MIME-Version: 1.0' . "\r\n";
         $headers .= 'Content-type: text/html; charset=iso-8859-1' . "\r\n";
         // $headers .= 'From: your-email@example.com' . "\r\n"; // Add the "From" header here
