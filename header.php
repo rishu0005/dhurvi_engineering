@@ -22,7 +22,7 @@
   <div class="container">
     <!-- <div class="container"></div> -->
     <a class="navbar-brand me-5" href="index.php">
-      <img loading="lazy" class="logo_image" src="./img/de-logo.png"  alt="logo" width="183" height="49">
+      <img loading="lazy" class="logo_image" src="./img/logo.png"  alt="logo" width="183" height="49">
 
     </a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">

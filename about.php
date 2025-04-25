@@ -77,7 +77,7 @@
                 <h2 class="text-indigo  pt-0">Our Vision</h2>
             </div>
             <div class="card-body pb-0">
-                <p class="offer-p fs-7">To emerge as a one of the leading players with continous learning for ever changing needs.</p>
+                <p class="offer-p fs-7">To become a trusted name in the engineering industry by blending time-honored expertise with modern, efficient, and customized solutions that exceed client expectations.</p>
             </div>
         </div>
 
@@ -86,7 +86,7 @@
                 <h2 class="text-indigo">Our Mission</h2>
             </div>
             <div class="card-body">
-                <p class="offer-p fs-7">To emerge as a one of the leading players emerge as a one of the leading  emerge as a one of the leading  emerge as a one of the leading ith continous learning for ever changing needs.</p>
+                <p class="offer-p fs-7">To deliver reliable, high-quality engineering and fabrication services through a partnership-driven approach, combining the rich legacy of Sunil Engineering Works with Druvi Engineering’s fresh, dynamic perspective. We aim to uphold values of precision, innovation, and customer satisfaction in every project we undertake.</p>
             </div>
         </div>
 
@@ -103,7 +103,7 @@
                 </div>
                 <div class="col-lg-6">
                     <p class="offer-p fs-7">
-                    At Sunil Engineering Works, precision is our priority. Every cut, bend, and finish is executed with meticulous attention to detail, ensuring superior quality and durability in every product.
+                    At Druvi Engineering, precision is our priority. Every cut, bend, and finish is executed with meticulous attention to detail, ensuring superior quality and durability in every product.
                     </p>
                     <p class="offer-p fs-7" id="difference">
                     We don’t just fabricate metal—we craft solutions. Our commitment goes beyond production; we innovate, optimize, and deliver products that add real value to your business.
@@ -129,7 +129,7 @@
                 
                 <img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRJ35qZMGe2a17fkKCGzGOV8iGq_ly4ROHccQMcwPzOPjCxpVbL" class="img-fluid" height="100px" width="100px" alt="">
                 <h3 class="w-75 text-indigo">Eco Friendly Practices</h3>
-                <p class="offer-p fs7">
+                <p class="offer-p fs-7">
                 Sustainability is at the core of our operations. We utilize energy-efficient processes, minimize waste, and follow environmentally responsible manufacturing practices to reduce our carbon footprint.
                 </p>
                 <!-- <i class="fa-solid fa-arrow-right mt-3"></i> -->
@@ -160,7 +160,7 @@
             </div>
         </div>
 
-    </div>
+                 </div>
             </div>
 </div>
 <!-- Manufacturing Section End -->
@@ -360,83 +360,71 @@
  <div class="elementor-spacer-inner"></div>
      <div class="container">
          <div class="row">
-             <div class="col-lg-6">
-                <span class="offer-span">The Heart of Druvi Engineering</span>
-                <h2 class="offer-h">Our Workforce, Tools And Creations</h2>
+             <div class="col-lg-6 mb-3">
+                <span class="offer-span">Working with a Legacy </span>
+                <h2 class="offer-h">Sunil Engineering : Works</h2>
              </div>
              <div class="col-lg-6">
-                <p class="offer-p">At Druvi Engineering, our success is driven by a skilled workforce, advanced machinery, and top-quality products. Together, they define our commitment to precision, innovation, and excellence. From expert craftsmanship to cutting-edge technology, every component we create meets the highest industry standards.</p>
+                <p class="offer-p fs-7">Druvi Engineering is proud to collaborate with Sunil Engineering Works, a well-established and trusted name in the engineering industry. While Sunil Engineering brings decades of experience and proven expertise, Druvi Engineering represents a new generation of innovation and personalized service under the leadership of a passionate founder.</p>
 
-                <p class="offer-p">
-                Our commitment to craftsmanship and customer satisfaction drives our reputation as a trusted leader in engineering solutions.
+                <p class="offer-p fs-7">
+                Together, we deliver reliable and customized engineering solutions to our clients. This partnership combines tradition with fresh perspectives, ensuring quality, efficiency, and client satisfaction in every project.
                 </p>
              </div> 
-             <div class="col-lg-12 mt-5">
-             <!-- <div class="elementor-spacer-inner"></div> -->
-                <div class="d-flex gap-4 flex-wrap justify-content-center align-items-center">
-                    <div class="card border-0 bg-transparent teamwork-card">
-                        <img src="./img/staff_worker.png" class="img-fluid team-work" style="height: 300px; object-fit: cover;" alt="">
-                        <h3 class="text-center text-indigo">Staff Workers</h3>
-                    </div>
-
-                    <div class="card border-0 bg-transparent teamwork-card">
-                        <img src="./img/workers.jpeg" class="img-fluid team-work" style="height: 300px; object-fit: cover;" alt="">
-                        <h3 class="text-center text-indigo">Our Worker</h3>
-                    </div>
-
-                    <div class="card border-0 bg-transparent teamwork-card">
-                        <img src="./img/press.jpeg" class="img-fluid team-work"style="height: 300px; object-fit: cover;" alt="">
-                        <h3 class="text-center text-indigo">Press </h3>
-                    </div>
-
-                    <div class="card border-0 bg-transparent teamwork-card">
-                        <img src="./img/product1.jpeg" class="img-fluid team-work"style="height: 300px; object-fit: cover;" alt="">
-                        <h3 class="text-center text-indigo">Sheet Component Die</h3>
-                    </div>
-
-                    <div class="card border-0 bg-transparent teamwork-card">
-                        <img src="./img/product2.jpeg" class="img-fluid team-work"style="height: 300px; object-fit: cover;" alt="">
-                        <h3 class="text-center text-indigo">Steel Die </h3>
-                    </div>
-
-                    <div class="card border-0 bg-transparent teamwork-card">
-                        <img src="./img/product3.jpeg" class="img-fluid team-work" style="height: 300px; object-fit: cover;" alt="">
-                        <h3 class="text-center text-indigo">12mm Copper Lugs</h3>
-                    </div>
-
-                    <div class="card border-0 bg-transparent teamwork-card">
-                        <img src="./img/product4.jpeg" class="img-fluid team-work" style="height: 300px; object-fit: cover;" alt="">
-                        <h3 class="text-center text-indigo">  Copper Lugs </h3>
-                    </div>
-
-                    <div class="card border-0 bg-transparent teamwork-card">
-                        <img src="./img/product5.jpeg" class="img-fluid team-work" style="height: 300px; object-fit: cover;" alt="">
-                        <h3 class="text-center text-indigo">Bronze Lugs</h3>
-                    </div>
-
-                    <div class="card border-0 bg-transparent teamwork-card">
-                        <img src="./img/product6.jpeg" class="img-fluid team-work" style="height: 300px; object-fit: cover;" alt="">
-                        <h3 class="text-center text-indigo">  Copper Lugs</h3>
-                    </div>
-
-                    <div class="card border-0 bg-transparent teamwork-card">
-                        <img src="./img/50_ton.png" class="img-fluid team-work" style="height: 300px; object-fit: cover;" alt="">
-                        <h3 class="text-center text-indigo"> 50 Ton Press</h3>
-                    </div>
-
-                    <div class="card border-0 bg-transparent teamwork-card">
-                        <img src="./img/50_ton1.png" class="img-fluid team-work" style="height: 300px; object-fit: cover;" alt="">
-                        <h3 class="text-center text-indigo">50 Ton Press </h3>
-                    </div>
-
-                    <div class="card border-0 bg-transparent teamwork-card">
-                        <img src="./img/30_ton.png" class="img-fluid team-work" style="height: 300px; object-fit: cover;" alt="">
-                        <h3 class="text-center text-indigo">30 Ton Press </h3>
-                    </div>
-
-                </div>
-             </div>
+          
          </div>
+
+        
+         <div class="row difference-section" >
+    <div class="col-lg-6 col-md-6 mt-5">
+            <div class="card difference-card metal d-flex h-100   border-0" id="metal-manufacturing">
+                
+                <img src="https://img.freepik.com/premium-vector/vector-design-industry-icon-style_822882-251235.jpg" class="img-fluid" height="100px" width="100px" alt="">
+                <h3 class="w-75 text-indigo">Sheet Metal Manufacturing </h3>
+                <p class="offer-p fs-7">
+                We specialize in precision sheet metal fabrication, delivering high-quality products tailored to industry needs. Our advanced techniques ensure durability and accuracy in every component we produce.
+                </p>
+                <!-- <a href="" class="text-decoration-none"><span class="text-indigo  fs-7"> Read More</span> <i class="fa-solid fa-arrow-right text-indigo mt-3 arrow"></i></a> -->
+            </div>
+        </div>
+
+        <div class="col-lg-6 col-md-6 mt-5">
+            <div class="card oil difference-card d-flex h-100   border-0">
+                
+                <img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRJ35qZMGe2a17fkKCGzGOV8iGq_ly4ROHccQMcwPzOPjCxpVbL" class="img-fluid" height="100px" width="100px" alt="">
+                <h3 class="w-75 text-indigo">Eco Friendly Practices</h3>
+                <p class="offer-p fs-7">
+                Sustainability is at the core of our operations. We utilize energy-efficient processes, minimize waste, and follow environmentally responsible manufacturing practices to reduce our carbon footprint.
+                </p>
+                <!-- <i class="fa-solid fa-arrow-right mt-3"></i> -->
+                <!-- <a href="" class="text-decoration-none"><span class="text-indigo  fs-7"> Read More</span> <i class="fa-solid fa-arrow-right text-indigo mt-3"></i></a> -->
+            </div>
+        </div>
+
+        <div class="col-lg-6 col-md-6 mt-5">
+            <div class="card power difference-card d-flex h-100  border-0">
+                
+                <img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTPYchbwqGFMowMUPCrkgcK78bcU1YyxTV7sxff4wq50WEokMmt" class="img-fluid" height="100px" width="100px" alt="">
+                <h3 class="w-75 text-indigo">Advanced Machine</h3>
+                <p class="offer-p fs-7">Equipped with state-of-the-art machinery, we guarantee precision, efficiency, and consistency in production. Our modern technology enables us to handle complex projects with ease.</p>
+                <!-- <a href="" class="text-decoration-none"><span class="text-indigo  fs-7"> Read More</span> <i class="fa-solid fa-arrow-right text-indigo mt-3"></i></a> -->
+            </div>
+        </div>
+
+        <div class="col-lg-6 col-md-6 mt-5">
+            <div class="card difference-card construction d-flex h-100   border-0">
+                
+                <img src="./img/worker.png" class="img-fluid" height="100px" width="100px" alt="">
+                <h3 class="w-75 text-indigo">Experience  workers </h3>
+                <p class="offer-p fs-7">
+                Our skilled workforce brings years of expertise to every project. With a deep understanding of metal fabrication, our team ensures top-notch craftsmanship and superior product quality.
+                </p>
+                <!-- <a href="" class="text-decoration-none"><span class="text-indigo   fs-7" > Read More</span> <i class="fa-solid fa-arrow-right text-indigo mt-3"></i></a> -->
+                
+            </div>
+        </div>
+
+    </div>
      </div>
 
  </div>

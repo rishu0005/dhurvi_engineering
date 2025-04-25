@@ -322,7 +322,7 @@
  <!-- count up effect -->
 <div class="container-fluid countdown ">
     <div class="container p-3">
-        <div class="row ">
+        <div class="row justify-content-center">
             <!-- <div class="d-flex justify-content-center align-items-center"> -->
                    <div class="col-md-3 col-sm-12 border-right text-center">
                 <span class="counter text-light " id="cases">0</span>
@@ -332,14 +332,14 @@
                 <span class="counter count text-light" id="projects">0</span>
                 <p class="fs-5 text-light">Products</p>
             </div>
-            <div class="col-md-3 col-sm-12 text-center border-right">
+            <div class="col-md-3 col-sm-12 text-center ">
                 <span class="counter text-light" id="clients">0</span>
-                <p class="fs-5 text-light">Happy Clients</p>
+                <p class="fs-5 text-light">No. Of Machines</p>
             </div>
-            <div class="col-md-3 col-sm-12 text-center">
+            <!-- <div class="col-md-3 col-sm-12 text-center">
                 <span  class="yearly_profit text-light counter" id="profit">0%</span>
                 <p class="fs-5 text-light">Yearly Profit</p>
-            </div>
+            </div> -->
             <!-- </div> -->
          
         </div>

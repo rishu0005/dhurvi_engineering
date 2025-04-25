@@ -9,11 +9,12 @@
     /* background-color: #46474a; */
   }
   .background-img{
-    background-image: url('https://www.zenithdie.com/WORKNC_Full_3X_License_marquee.jpg');
+    /* background-image: url('https://www.zenithdie.com/WORKNC_Full_3X_License_marquee.jpg'); */
+    background-image: url('../img/bg-hero.png');
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
-    background-attachment: fixed; /* Optional: Adds parallax effect */
+    /* background-attachment: fixed;  */
     width: 100%;
     min-height: 100vh; /* Ensures it covers full viewport height */
   }
@@ -42,9 +43,9 @@
   .navbar-brand img {
     padding-bottom: 8px;
     /* min-width: 193px; */
-    height: 85px;
-    max-height: 100px;
-    max-width: 250px;
+    height: 120px;
+    /* max-height: 100px; */
+    max-width: 100%;
     transition: all 0.3s ease-in-out; /* Smooth transition for logo resizing */
   }
 

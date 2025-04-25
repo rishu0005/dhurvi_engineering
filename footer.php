@@ -117,7 +117,14 @@ function countUp(elementId, start, end, duration) {
         if (elementId === 'profit') {
             // For 'profit', append '%' sign
             counterElement.textContent = Math.floor(current) + '%';
-        } else {
+        }
+        else if (elementId === 'clients') {
+            counterElement.textContent = Math.floor(current) + '+'; } 
+            
+            else if (elementId === 'projects') {
+            counterElement.textContent = Math.floor(current) + '+'; } 
+            
+         else {
             // For other counters, just display the number
             counterElement.textContent = Math.floor(current);
         }
@@ -128,10 +135,10 @@ function countUp(elementId, start, end, duration) {
         }
 
         // Initialize counters with start, end, and duration (in ms)
-        countUp('clients', 0, 200, 2000);    // 2 seconds for clients
-        countUp('projects', 0, 50, 3000);   // 3 seconds for projects
+        countUp('clients', 0, 35, 2000);    // 2 seconds for clients
+        countUp('projects', 0, 80, 3000);   // 3 seconds for projects
         countUp('cases', 0, 120, 2500);      // 2.5 seconds for cases
-        countUp('profit', 0,79,2500)         //2.5 seconds for profit
+        // countUp('profit', 0,79,2500)         //2.5 seconds for profit
 
 </script>
 </body>
