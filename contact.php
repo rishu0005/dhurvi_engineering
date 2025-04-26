@@ -61,7 +61,7 @@
                         </div>
                         <div class="col-md-12">
                             
-                       <textarea name="message" rows="5" class="form-control" id="" placeholder="How Can We Help You? Feel free to get in touch "></textarea>
+                       <textarea name="message" rows="5" class="form-control" id="" placeholder="How Can We Help You? Feel free to get in touch " required></textarea>
                             
                         </div>
     

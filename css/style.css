@@ -10,7 +10,7 @@
   }
   .background-img{
     /* background-image: url('https://www.zenithdie.com/WORKNC_Full_3X_License_marquee.jpg'); */
-    background-image: url('../img/bg-hero.png');
+    background-image: url('../img/bg-hero.webp');
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -43,7 +43,7 @@
   .navbar-brand img {
     padding-bottom: 8px;
     /* min-width: 193px; */
-    height: 120px;
+    height: 100px;
     /* max-height: 100px; */
     max-width: 100%;
     transition: all 0.3s ease-in-out; /* Smooth transition for logo resizing */
@@ -78,7 +78,7 @@
   font-weight: 500;
 }
 .under-line{
-  background-color: grey;
+background-color: grey;
 height: 2px;
 width: 0px;
 position: absolute;
@@ -87,31 +87,29 @@ left: 6px;
 transition: all 0.3s ease;
 }
 
-.home .under-line{
-background-color: grey;
-height: 2px;
-width: 60px;
-position: absolute;
-bottom: 3px;
-left: 6px;
+
+.nav-link:hover .under-line{
+  width: 80px;
 }
-.home:hover .under-line{
+
+.nav-home:hover .under-line{
   width: 60px;
-  transition: all 0.3s ease;
 }
-
-.pages:hover .under-line{
+.active .under-line{
+  width: 60px;
+}
+.active .nav-about .under-line{
   width: 90px;
-  transition: all 0.3s ease;
 }
-.projects:hover .under-line{
-  width: 88px;
-  transition: all 0.3s ease;
-}
-
-.contact:hover .under-line{
+.active .nav-product .under-line{
   width: 85px;
-  transition: all 0.3s ease;
+}
+.active .machinery .under-line{
+  width: 95px;
+}
+/* Contact nav  */
+.active .contact .under-line{
+  width: 80px;
 }
 
 
@@ -274,6 +272,11 @@ left: 6px;
 }
 .img-space{
   margin-top: 10rem;
+}
+@media (max-width:480px) {
+  .img-space{
+    margin-top: 0;
+  }
 }
 .crd-image {
   position: relative;
@@ -447,7 +450,7 @@ left: 6px;
   margin: 10px 0;
 }
 .video-container{
-  background-image: url('https://fabrica.ancorathemes.com/wp-content/uploads/2023/02/image-10-copyright.jpg'); /* Replace with your image path */
+  background-image: url('../img/video.webp'); /* Replace with your image path */
   /* object-fit: cover; */
   background-size: cover;  /* Ensures the image covers the entire area */
   background-position: center;  /* Centers the image */
@@ -488,7 +491,7 @@ left: 6px;
 }
 @media (max-width: 768px){
   .countdown{
-    height: 33rem;
+    height: 25rem;
   }
   .margin-top{
     margin-top: 2rem;
@@ -573,7 +576,11 @@ left: 6px;
   min-height: 14rem;
   height: auto;
 }
+.difference-card{
+  padding: 10px;
 }
+}
+
 
 /* footer */
 .footer{
@@ -608,7 +615,7 @@ left: 6px;
   position: relative;
   height: 24rem;
   width: 100%;
-  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/contact-banner.jpg');
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/contact-banner.webp');
   
 }
 .banner-contact h1{
@@ -715,7 +722,7 @@ left: 6px;
   height: 217px;
   width: 300px;
   /* background-color: red; */
-  background-image: url('../img/50_ton.png');
+  background-image: url('../img/50_ton.webp');
   background-size: contain;
   background-repeat: no-repeat;
   z-index: 99;
@@ -727,7 +734,7 @@ left: 6px;
   max-height:30rem ;
   height: 400px;
   width: 300px;
-  background-image: url('../img/30_ton.png');
+  background-image: url('../img/30_ton.webp');
   background-size: contain;
   background-repeat: no-repeat;
   z-index: 1;

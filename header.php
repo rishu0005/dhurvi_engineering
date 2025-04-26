@@ -1,9 +1,13 @@
+<?php
+$current_page = basename($_SERVER['REQUEST_URI']); // gets the current file name or URI segment
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Dhruvi Engineering</title>
+    <title>Druvi Engineering</title>
 
     <!-- Bootstrap CDN -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
@@ -13,6 +17,8 @@
 
   <!-- StyleSheet -->
 	<link href="css/style.css" rel="stylesheet">
+
+  <link rel="shortcut icon" href="./img/logo.png" type="image/x-icon">
 
 
 
@@ -32,20 +38,20 @@
     </button>
     <div class="collapse navbar-collapse" id="navbarNav">
     <ul class="navbar-nav">
-      <li class="nav-item active">
-        <a class="nav-link me-3 fs-5  home text-dark " href="index.php">Home <span class="under-line"></span> </a>
+      <li class="nav-item ">
+        <a class="nav-link nav-home me-3 fs-5 <?php if($current_page == 'index.php'){echo 'active';} ?>  text-dark " href="index.php">Home <span class="under-line"></span> </a>
       </li>
-      <li class="nav-item">
-        <a class="nav-link me-3 pages fs-5   text-dark" href="about.php">About Us<span class="under-line"></span></a>
+      <li class="nav-item <?php if($current_page == 'about.php'){echo 'active';} ?>">
+        <a class="nav-link me-3 nav-about  fs-5   text-dark" href="about.php">About Us<span class="under-line"></span></a>
       </li>
-      <li class="nav-item">
-        <a class="nav-link me-3 projects fs-5   text-dark" href="product.php">Products <span class="under-line"></span></a>
+      <li class="nav-item <?php if($current_page == 'product.php'){echo 'active';} ?>">
+        <a class="nav-link me-3 nav-product   fs-5   text-dark" href="product.php">Products <span class="under-line"></span></a>
       </li>
-      <li class="nav-item">
-        <a class="nav-link me-3 contact fs-5   text-dark" href="machinery.php">Machinery <span class="under-line"></span></a>
+      <li class="nav-item <?php if($current_page == 'machinery.php'){echo 'active';} ?>">
+        <a class="nav-link me-3  fs-5 machinery  text-dark" href="machinery.php">Machinery <span class="under-line"></span></a>
       </li>
-      <li class="nav-item">
-        <a class="nav-link me-3 contact fs-5   text-dark" href="contact.php">Contacts <span class="under-line"></span></a>
+      <li class="nav-item <?php if($current_page == 'contact.php'){echo 'active';} ?>">
+        <a class="nav-link me-3  fs-5 contact  text-dark" href="contact.php">Contacts <span class="under-line"></span></a>
       </li> 
     </ul>
 

@@ -32,9 +32,9 @@
         <div class="d-flex column-flex justify-content-around">
             <div class="col-md-5">
            <div class="d-flex justify-content-center crd-image align-items-start">
-            <img src="./img/50_ton1.png" class="img-fluid h-100 crd-image-top" alt="">
+            <img src="./img/50_ton1.webp" class="img-fluid h-100 crd-image-top" alt="">
            <!-- <div class="crd-image-overlay"></div> -->
-            <img src="./img/30_ton.png" class="img-fluid h-100 w-100 crd-image-bottom" alt="">
+            <img src="./img/30_ton.webp" class="img-fluid h-100 w-100 crd-image-bottom" alt="">
            </div>
         </div>
 
@@ -45,8 +45,8 @@
            <p class="text-white fs-7">At Druvi Engineering, world-class quality is our priority, ensuring precision, durability, and excellence in every product. With advanced technology and meticulous craftsmanship, we set new industry standards</p>
 
            <div class="d-flex justify-content-centre align-items-center img img-space crd-image ">
-               <img src="./img/workers.jpeg" class="img-fluid h-100 w-100 crd-image-bottom " alt="">
-               <img src="./img/50_ton.png" class="img-fluid   crd-image-top" alt="image-error">
+               <img src="./img/workers.webp" class="img-fluid h-100 w-100 crd-image-bottom " alt="">
+               <img src="./img/50_ton.webp" class="img-fluid   crd-image-top" alt="image-error">
            </div>
             </div>
            </div>
@@ -75,64 +75,57 @@
              <!-- <div class="elementor-spacer-inner"></div> -->
                 <div class="d-flex gap-4 flex-wrap justify-content-center align-items-center">
                     <div class="card border-0 bg-transparent teamwork-card">
-                        <img src="./img/staff_worker.png" class="img-fluid team-work" style="height: 300px; object-fit: cover;" alt="">
+                        <img src="./img/staff_worker.webp" class="img-fluid team-work" style="height: 300px; object-fit: cover;" alt="">
                         <h3 class="text-center text-indigo">Staff Workers</h3>
                     </div>
 
                     <div class="card border-0 bg-transparent teamwork-card">
-                        <img src="./img/workers.jpeg" class="img-fluid team-work" style="height: 300px; object-fit: cover;" alt="">
+                        <img src="./img/workers.webp" class="img-fluid team-work" style="height: 300px; object-fit: cover;" alt="">
                         <h3 class="text-center text-indigo">Our Worker</h3>
                     </div>
 
                     <div class="card border-0 bg-transparent teamwork-card">
-                        <img src="./img/press.jpeg" class="img-fluid team-work"style="height: 300px; object-fit: cover;" alt="">
+                        <img src="./img/press.webp" class="img-fluid team-work"style="height: 300px; object-fit: cover;" alt="">
                         <h3 class="text-center text-indigo">Press </h3>
                     </div>
 
                     <div class="card border-0 bg-transparent teamwork-card">
-                        <img src="./img/product1.jpeg" class="img-fluid team-work"style="height: 300px; object-fit: cover;" alt="">
+                        <img src="./img/product1_1.webp" class="img-fluid team-work"style="height: 300px; object-fit: cover;" alt="">
                         <h3 class="text-center text-indigo">Sheet Component Die</h3>
                     </div>
 
                     <div class="card border-0 bg-transparent teamwork-card">
-                        <img src="./img/product2.jpeg" class="img-fluid team-work"style="height: 300px; object-fit: cover;" alt="">
+                        <img src="./img/product2_1.webp" class="img-fluid team-work"style="height: 300px; object-fit: cover;" alt="">
                         <h3 class="text-center text-indigo">Steel Die </h3>
                     </div>
-<!-- 
+
                     <div class="card border-0 bg-transparent teamwork-card">
-                        <img src="./img/product3.jpeg" class="img-fluid team-work" style="height: 300px; object-fit: cover;" alt="">
-                        <h3 class="text-center text-indigo">12mm Copper Lugs</h3>
+                        <img src="./img/10ton.webp" class="img-fluid team-work" style="height: 300px; object-fit: cover;" alt="">
+                        <h3 class="text-center text-indigo"> 10 Press</h3>
                     </div>
 
                     <div class="card border-0 bg-transparent teamwork-card">
-                        <img src="./img/product4.jpeg" class="img-fluid team-work" style="height: 300px; object-fit: cover;" alt="">
-                        <h3 class="text-center text-indigo">  Copper Lugs </h3>
+                        <img src="./img/20ton.webp" class="img-fluid team-work" style="height: 300px; object-fit: cover;" alt="">
+                        <h3 class="text-center text-indigo"> 4 Press</h3>
                     </div>
 
                     <div class="card border-0 bg-transparent teamwork-card">
-                        <img src="./img/product5.jpeg" class="img-fluid team-work" style="height: 300px; object-fit: cover;" alt="">
-                        <h3 class="text-center text-indigo">Bronze Lugs</h3>
+                        <img src="./img/machine_30_ton.webp" class="img-fluid team-work" style="height: 300px; object-fit: cover;" alt="">
+                        <h3 class="text-center text-indigo"> 3 Press</h3>
+                    </div>
+                    <div class="card border-0 bg-transparent teamwork-card">
+                        <img src="./img/45_Ton.png" class="img-fluid team-work" style="height: 300px; object-fit: cover;" alt="">
+                        <h3 class="text-center text-indigo"> 1 Press</h3>
+                    </div>
+                    <div class="card border-0 bg-transparent teamwork-card">
+                        <img src="./img/machine_50_ton.webp" class="img-fluid team-work" style="height: 300px; object-fit: cover;" alt="img/error">
+                        <h3 class="text-center text-indigo">2 Press </h3>
                     </div>
 
-                    <div class="card border-0 bg-transparent teamwork-card">
-                        <img src="./img/product6.jpeg" class="img-fluid team-work" style="height: 300px; object-fit: cover;" alt="">
-                        <h3 class="text-center text-indigo">  Copper Lugs</h3>
-                    </div> -->
-
-                    <div class="card border-0 bg-transparent teamwork-card">
-                        <img src="./img/50_ton.png" class="img-fluid team-work" style="height: 300px; object-fit: cover;" alt="">
-                        <h3 class="text-center text-indigo"> 50 Ton Press</h3>
-                    </div>
-
-                    <div class="card border-0 bg-transparent teamwork-card">
-                        <img src="./img/50_ton1.png" class="img-fluid team-work" style="height: 300px; object-fit: cover;" alt="">
-                        <h3 class="text-center text-indigo">50 Ton Press </h3>
-                    </div>
-
-                    <div class="card border-0 bg-transparent teamwork-card">
+                    <!-- <div class="card border-0 bg-transparent teamwork-card">
                         <img src="./img/30_ton.png" class="img-fluid team-work" style="height: 300px; object-fit: cover;" alt="">
                         <h3 class="text-center text-indigo">30 Ton Press </h3>
-                    </div>
+                    </div> -->
 
                 </div>
              </div>

@@ -10,11 +10,15 @@
 <div class="container mt-4">
     <div class="row">
         <div class="d-flex  column-flex align-items-center">
-             <div class="col-md-6 me-4">
-            <span class="offer-span">Druvi Engineering </span>
-            <h1 class="offer-h">A Legacy of Excellence in Tool and Die Making   </h1>
+             <div class="col-md-6 d-flex justify-content-center">
+                <img src="./img/office.jpeg" class="img-fluid rounded w-75" alt="">
+           
         </div>
         <div class="col-md-6">
+
+        <span class="offer-span">Druvi Engineering </span>
+        <h1 class="offer-h mb-4">A Legacy of Excellence in Tool and Die Making   </h1>
+
         <p class="offer-p fs-7">
  Druvi Engineering has been a trusted name in the sheet metal and progressive die industry, delivering high-quality solutions with precision, durability, and innovation. Based in Vasai (E), Dist. Palghar, we specialize in manufacturing progressive dies and sheet metal components that meet the highest industry standards. With decades of expertise, advanced technology, and stringent quality control, we ensure excellence in dimensional accuracy, performance, and longevity. 
 </p>
@@ -115,7 +119,7 @@
     <div class="col-lg-6 col-md-6 mt-5">
             <div class="card difference-card metal d-flex h-100  bg-transparent border-0" id="metal-manufacturing">
                 
-                <img src="https://img.freepik.com/premium-vector/vector-design-industry-icon-style_822882-251235.jpg" class="img-fluid" height="100px" width="100px" alt="">
+                <img src="./img/icon/sheet.avif" class="img-fluid" height="100px" width="100px" alt="">
                 <h3 class="w-75 text-indigo">Sheet Metal Manufacturing </h3>
                 <p class="offer-p fs-7">
                 We specialize in precision sheet metal fabrication, delivering high-quality products tailored to industry needs. Our advanced techniques ensure durability and accuracy in every component we produce.
@@ -127,7 +131,7 @@
         <div class="col-lg-6 col-md-6 mt-5">
             <div class="card oil difference-card d-flex h-100  bg-transparent border-0">
                 
-                <img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRJ35qZMGe2a17fkKCGzGOV8iGq_ly4ROHccQMcwPzOPjCxpVbL" class="img-fluid" height="100px" width="100px" alt="">
+                <img src="./img/icon/eco-friendly.png" class="img-fluid" height="100px" width="100px" alt="">
                 <h3 class="w-75 text-indigo">Eco Friendly Practices</h3>
                 <p class="offer-p fs-7">
                 Sustainability is at the core of our operations. We utilize energy-efficient processes, minimize waste, and follow environmentally responsible manufacturing practices to reduce our carbon footprint.
@@ -140,7 +144,7 @@
         <div class="col-lg-6 col-md-6 mt-5">
             <div class="card power difference-card d-flex h-100 bg-transparent border-0">
                 
-                <img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTPYchbwqGFMowMUPCrkgcK78bcU1YyxTV7sxff4wq50WEokMmt" class="img-fluid" height="100px" width="100px" alt="">
+                <img src="./img/icon/advance-machine.png" class="img-fluid" height="100px" width="100px" alt="">
                 <h3 class="w-75 text-indigo">Advanced Machine</h3>
                 <p class="offer-p fs-7">Equipped with state-of-the-art machinery, we guarantee precision, efficiency, and consistency in production. Our modern technology enables us to handle complex projects with ease.</p>
                 <!-- <a href="" class="text-decoration-none"><span class="text-indigo  fs-7"> Read More</span> <i class="fa-solid fa-arrow-right text-indigo mt-3"></i></a> -->
@@ -150,7 +154,7 @@
         <div class="col-lg-6 col-md-6 mt-5">
             <div class="card difference-card construction d-flex h-100  bg-transparent border-0">
                 
-                <img src="./img/worker.png" class="img-fluid" height="100px" width="100px" alt="">
+                <img src="./img/icon/worker.png" class="img-fluid" height="100px" width="100px" alt="">
                 <h3 class="w-75 text-indigo">Experience  workers </h3>
                 <p class="offer-p fs-7">
                 Our skilled workforce brings years of expertise to every project. With a deep understanding of metal fabrication, our team ensures top-notch craftsmanship and superior product quality.
@@ -282,7 +286,7 @@
         <div class="row">
             <div class="col-md-6 col-lg-3 col-sm-12">
                 <div class="work-item">
-                <img src="https://cdn-icons-png.flaticon.com/128/4573/4573290.png" class="img-fluid icon" alt="">
+                <img src="./img/icon/design.png" class="img-fluid icon" alt="">
                     <span class="circle"></span>
                     <h4>Design & Prototype</h4>
                     <p>We begin with designing the die based on your specifications and creating a prototype to ensure precision and functionality.</p>
@@ -292,7 +296,7 @@
             <div class="col-md-6 col-lg-3  col-sm-12">
             <div class="work-item">
                     
-            <img src="https://cdn-icons-png.flaticon.com/128/10614/10614604.png" class="img-fluid icon" alt="">
+            <img src="./img/icon/material.png" class="img-fluid icon" alt="">
                     <span></span>
                     <h4>Material Selection</h4>
                     <p>We choose high-quality materials that ensure durability and performance for the specific application.</p>
@@ -303,7 +307,7 @@
             <div class="col-md-6 col-lg-3  col-sm-12">
             <div class="work-item">
                     
-            <img src="https://cdn-icons-png.flaticon.com/128/1433/1433114.png" class="img-fluid icon" alt="">
+            <img src="./img/icon/manufacturing.png" class="img-fluid icon" alt="">
                     <span></span>
                     <h4>Manufacturing</h4>
                     <p>Using advanced machinery, we precisely manufacture the die to your exact requirements.</p>
@@ -313,7 +317,7 @@
             <div class="col-md-6 col-lg-3  col-sm-12 bg-transparent card border-0">
             <div class="work-item">
                     
-            <img src="https://cdn-icons-png.flaticon.com/128/3645/3645772.png" class="img-fluid icon" alt="">
+            <img src="./img/icon/quality-testing.png" class="img-fluid icon" alt="">
                     <span></span>
                     <h4>Quality Testing</h4>
                     <p>Each Die undergoes thorough testing to ensure it meets industry standards for performance and durability</p>
@@ -329,7 +333,7 @@
 <!-- Countdown start -->
 <div class="container-fluid  ">
     <div class="container p-3">
-        <div class="row ">
+        <div class="row justify-content-center">
             <!-- <div class="d-flex justify-content-center align-items-center"> -->
                    <div class="col-md-3 col-sm-12 border-right-indigo text-center">
                 <span class="counter text-indigo " id="cases">0</span>
@@ -339,14 +343,11 @@
                 <span class="counter count text-indigo" id="projects">0</span>
                 <p class="fs-5 text-indigo fw-bold">Products</p>
             </div>
-            <div class="col-md-3 col-sm-12 text-center border-right-indigo">
+            <div class="col-md-3 col-sm-12 text-center ">
                 <span class="counter text-indigo" id="clients">0</span>
                 <p class="fs-5 text-indigo fw-bold">Happy Clients</p>
             </div>
-            <div class="col-md-3 col-sm-12 text-center">
-                <span  class="yearly_profit text-indigo counter" id="profit">0%</span>
-                <p class="fs-5 text-indigo fw-bold">Yearly Profit</p>
-            </div>
+     
             <!-- </div> -->
          
         </div>
@@ -362,7 +363,7 @@
          <div class="row">
              <div class="col-lg-6 mb-3">
                 <span class="offer-span">Working with a Legacy </span>
-                <h2 class="offer-h">Sunil Engineering : Works</h2>
+                <h2 class="offer-h ">Sunil Engineering  Works</h2>
              </div>
              <div class="col-lg-6">
                 <p class="offer-p fs-7">Druvi Engineering is proud to collaborate with Sunil Engineering Works, a well-established and trusted name in the engineering industry. While Sunil Engineering brings decades of experience and proven expertise, Druvi Engineering represents a new generation of innovation and personalized service under the leadership of a passionate founder.</p>
@@ -379,10 +380,10 @@
     <div class="col-lg-6 col-md-6 mt-5">
             <div class="card difference-card metal d-flex h-100   border-0" id="metal-manufacturing">
                 
-                <img src="https://img.freepik.com/premium-vector/vector-design-industry-icon-style_822882-251235.jpg" class="img-fluid" height="100px" width="100px" alt="">
-                <h3 class="w-75 text-indigo">Sheet Metal Manufacturing </h3>
+                <img src="./img/icon/trust.png" class="img-fluid" height="100px" width="100px" alt="">
+                <h3 class="w-75 text-indigo">Legacy & Trust</h3>
                 <p class="offer-p fs-7">
-                We specialize in precision sheet metal fabrication, delivering high-quality products tailored to industry needs. Our advanced techniques ensure durability and accuracy in every component we produce.
+                We honor the decades of expertise carried by Sunil Engineering Works, building on a foundation of reliability and trust.
                 </p>
                 <!-- <a href="" class="text-decoration-none"><span class="text-indigo  fs-7"> Read More</span> <i class="fa-solid fa-arrow-right text-indigo mt-3 arrow"></i></a> -->
             </div>
@@ -391,10 +392,10 @@
         <div class="col-lg-6 col-md-6 mt-5">
             <div class="card oil difference-card d-flex h-100   border-0">
                 
-                <img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRJ35qZMGe2a17fkKCGzGOV8iGq_ly4ROHccQMcwPzOPjCxpVbL" class="img-fluid" height="100px" width="100px" alt="">
-                <h3 class="w-75 text-indigo">Eco Friendly Practices</h3>
+                <img src="./img/icon/project-management.png" class="img-fluid" height="100px" width="100px" alt="">
+                <h3 class="w-75 text-indigo">Innovation-Driven Solutions</h3>
                 <p class="offer-p fs-7">
-                Sustainability is at the core of our operations. We utilize energy-efficient processes, minimize waste, and follow environmentally responsible manufacturing practices to reduce our carbon footprint.
+                Embracing modern technologies and fresh ideas to deliver smart, efficient, and customized engineering solutions.
                 </p>
                 <!-- <i class="fa-solid fa-arrow-right mt-3"></i> -->
                 <!-- <a href="" class="text-decoration-none"><span class="text-indigo  fs-7"> Read More</span> <i class="fa-solid fa-arrow-right text-indigo mt-3"></i></a> -->
@@ -404,9 +405,9 @@
         <div class="col-lg-6 col-md-6 mt-5">
             <div class="card power difference-card d-flex h-100  border-0">
                 
-                <img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTPYchbwqGFMowMUPCrkgcK78bcU1YyxTV7sxff4wq50WEokMmt" class="img-fluid" height="100px" width="100px" alt="">
-                <h3 class="w-75 text-indigo">Advanced Machine</h3>
-                <p class="offer-p fs-7">Equipped with state-of-the-art machinery, we guarantee precision, efficiency, and consistency in production. Our modern technology enables us to handle complex projects with ease.</p>
+                <img src="./img/icon/badge.png" class="img-fluid" height="100px" width="100px" alt="">
+                <h3 class="w-75 text-indigo">Precision & Quality</h3>
+                <p class="offer-p fs-7">Every project is handled with attention to detail, ensuring superior craftsmanship and long-lasting results.</p>
                 <!-- <a href="" class="text-decoration-none"><span class="text-indigo  fs-7"> Read More</span> <i class="fa-solid fa-arrow-right text-indigo mt-3"></i></a> -->
             </div>
         </div>
@@ -414,10 +415,10 @@
         <div class="col-lg-6 col-md-6 mt-5">
             <div class="card difference-card construction d-flex h-100   border-0">
                 
-                <img src="./img/worker.png" class="img-fluid" height="100px" width="100px" alt="">
-                <h3 class="w-75 text-indigo">Experience  workers </h3>
+                <img src="./img/icon/rating.png" class="img-fluid" height="100px" width="100px" alt="">
+                <h3 class="w-75 text-indigo">Customer-Centric Approach</h3>
                 <p class="offer-p fs-7">
-                Our skilled workforce brings years of expertise to every project. With a deep understanding of metal fabrication, our team ensures top-notch craftsmanship and superior product quality.
+                We prioritize our clients’ needs, offering tailored services that meet their specific requirements and expectations.
                 </p>
                 <!-- <a href="" class="text-decoration-none"><span class="text-indigo   fs-7" > Read More</span> <i class="fa-solid fa-arrow-right text-indigo mt-3"></i></a> -->
                 

@@ -3,7 +3,7 @@
          <!-- <div class="elementor-spacer-inner"></div> -->
           <div class="container">
              
-            <div class="row p-1">
+            <div class="row p-1 justify-content-center">
              <div class="col-md-12 col-sm-12"> 
                 <div class="text-light  mt-5 ">
                     <h1 class="width">Driven by Excellence, Defined by Perfection: Druvi Engineering</h1>
@@ -12,7 +12,7 @@
                
 
 <!-- <div class="d-flex justify-content-center align-items-center"> -->
-                <div class="col-md-3 col-sm-12">
+                <div class="col-md-4 col-sm-12">
                     <h3 class="text-light mt-5">Address</h3>
                     <p class="color w-75">Sheetal Ind. No.6, Gala No. 11, Navghar, Vasai (E),
                         Dist. Palghar - 401 210
@@ -24,7 +24,7 @@
 
                     
             </div>
-                <div class="col-md-3 col-sm-12 mt-5">
+                <div class="col-md-4 col-sm-12 mt-5">
                     <h3 class="text-light"> Say Hello </h3>
                     <p class="color"><span></span>druviengineering29@gmail.com</p>
                     <h4 class="text-light">+91 7507483383
@@ -32,7 +32,7 @@
                     <h4 class="text-light">+91 9325682260
                     </h4>
                 </div>
-                <div class="col-md-2 col-sm-12 mt-5">
+                <!-- <div class="col-md-2 col-sm-12 mt-5">
                     <h3 class="text-light">Socials</h3>
                     <ul class="list-unstyled">
                         <li class="mt-3">
@@ -48,7 +48,7 @@
                             <a class="text-decoration-none mt-2 color" href="">Instagram</a>
                         </li>
                     </ul>
-                </div> 
+                </div>  -->
                 
                 <div class="col-md-2 col-sm-12 mt-5">
                     <h3 class="text-light">Pages</h3>

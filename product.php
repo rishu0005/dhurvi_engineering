@@ -40,10 +40,10 @@
               <div class="col-lg-6">
               <div class="copper-lug-images d-flex">
                        <div class="copper-lug-image1">
-                         <img src="./img/product2.png" alt="" class="img-fluid rounded">
+                         <img src="./img/product2.webp" alt="" class="img-fluid rounded">
                        </div>
                        <div class="copper-lug-image3 mb-5">
-                         <img src="./img/product5.jpeg" class="img-fluid rounded" alt="">
+                         <img src="./img/product5.webp" class="img-fluid rounded" alt="">
                        </div>
                    </div>
               </div>
@@ -71,10 +71,10 @@
                <div class="col-lg-6">
                <div class="ss-cable-images d-flex">
                         <div class="ss-cable-image1">
-                          <img src="./img/ss_cable.png" class="img-fluid rounded" alt="">
+                          <img src="./img/ss_cable.webp" class="img-fluid rounded" alt="">
                         </div>
                         <div class="ss-cable-image3 mb-5">
-                        <img src="./img/ss_cable1.png" class="img-fluid rounded" alt="">
+                        <img src="./img/product3.webp" class="img-fluid rounded" alt="">
                         </div>
                     </div>
                </div>
@@ -86,7 +86,7 @@
                <div class="col-lg-6">
                <div class="s d-flex">
                         <div class="ss-cable mx-auto d-flex">
-                          <img src="./img/ss_ladder.png" class="img-fluid rounded" alt="">
+                          <img src="./img/ss_ladder.webp" class="img-fluid rounded" alt="">
                         </div>
                         <!-- <div class="ss-cable-image3">
                         <img src="./img/ss_cable1.png" class="img-fluid rounded" alt="">
@@ -117,10 +117,10 @@
                   <div class="col-lg-6">
                   <div class="ss-cable-images d-flex">
                            <div class="ss-cable-image1">
-                             <img src="./img/marker.png" class="img-fluid rounded" alt="">
+                             <img src="./img/marker.webp" class="img-fluid rounded" alt="">
                            </div>
                            <div class="ss-cable-image3 mb-5">
-                           <img src="./img/ss_marker_tag.png" class="img-fluid rounded" alt="">
+                           <img src="./img/ss_marker_tag.webp" class="img-fluid rounded" alt="">
                            </div>
                        </div>
                   </div>
@@ -131,18 +131,16 @@
              <div class="elementor-spacer-inner"></div>
          
              <div class="row justify-content-center flex-reverse-small">
-
                <div class="col-lg-6">
                <div class="ss-cable-images d-flex">
                         <div class="ss-cable-image1">
-                          <img src="https://www.giantlok.in/wp-content/uploads/2020/05/02-Releasable-Type-Stainless-Steel-Ties.jpg" class="img-fluid rounded" alt="">
+                          <img src="./img/product4_1.webp" class="img-fluid rounded" alt="">
                         </div>
                         <div class="ss-cable-image3 mb-5">
-                        <img src="./img/ss_releaseable_tie.png" class="img-fluid rounded" alt="">
+                        <img src="./img/product4.webp" class="img-fluid rounded" alt="">
                         </div>
                     </div>
                </div>
-  
                <div class="col-lg-6">
                            <span class="offer-span text-white">SS Releaseable Tie</span>
                           <h2 class="offer-h text-white">SS Releasable Ties – Reusable Fastening for Heavy-Duty</h2>
@@ -168,20 +166,60 @@
                   <div class="col-lg-6">
                    <div class=" d-flex">    
                         <div class="ss-cable d-flex mx-auto">
-                        <img src="./img/product1.png" class="img-fluid rounded" alt="">
+                        <img src="./img/product1.webp" class="img-fluid rounded" alt="">
                         </div>
                     </div>
                </div>
              </div>
 
-             
-
-             
              <div class="elementor-spacer-inner"></div>
 
+             <div class="row  justify-content-center flex-reverse-small">
 
-             
-       
+               <div class="col-lg-6">
+               <div class="ss-cable-images   d-flex">
+                        <div class="ss-cable-image1">
+                          <!-- <img src="https://5.imimg.com/data5/LT/WQ/QB/SELLER-32939307/stainless-steel-hose-clip-1000x1000.jpg" class="img-fluid h-100 rounded" alt=""> -->
+                          <img src="./img/hose_clip1.webp" class="img-fluid rounded h-100" alt="">
+                        </div>
+                        <div class="ss-cable-image3 ">
+                        <!-- <img src="https://www.fastwrx.com/cdn/shop/products/T_bolt_clamp_5000x.jpg?v=1571438856" class="img-fluid rounded h-100" alt=""> -->
+                        <img src="./img/hose_clip2.webp" class="img-fluid h-100 rounded" alt="">
+                        </div>
+                    </div>
+               </div>
+  
+               <div class="col-lg-6">
+                           <span class="offer-span text-white">Hose Clip</span>
+                          <h2 class="offer-h text-white">High-Quality Hose Clips for Secure Connections</h2>
+                          <p class="offer-p text-light mt-3">
+                          Durable and precision-engineered hose clips designed to provide secure, leak-proof fastening for hoses in industrial, automotive, and general-purpose applications. Manufactured from high-quality materials for long-lasting performance, corrosion resistance, and easy installation.
+                          </p>
+                                  
+                      </div>
+             </div>
+
+             <div class="elementor-spacer-inner"></div>
+
+            <div class="row">
+              <div class="col-lg-6">
+              <span class="offer-span text-white">Brass Terminal</span>
+                          <h2 class="offer-h text-white">High-Performance Brass Terminal Connectors</h2>
+                          <p class="offer-p text-light mt-3">
+                          Druvi Engineering offers precision-crafted brass terminal connectors designed for efficient and secure electrical connections. Manufactured from premium-grade brass, these connectors provide excellent conductivity, durability, and corrosion resistance, making them ideal for electrical, automotive, and industrial applications.
+                          </p>
+              </div>
+
+              <div class="col-lg-6">
+                   <div class=" d-flex align-items-start justify-content-center">    
+                        <div class="ss-cable d-flex mx-auto">
+                        <img src="./img/brass_terminal.jpeg" class="img-fluid rounded" alt="">
+                        </div>
+                    </div>
+               </div>
+            </div>
+            <div class="elementor-spacer-inner"></div>
+
     </div>
 
 </div>
