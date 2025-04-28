@@ -10,13 +10,13 @@
 <div class="container mt-4">
     <div class="row">
         <div class="d-flex  column-flex align-items-center">
-             <div class="col-md-6 d-flex justify-content-center">
+             <div class="col-md-6 mb-4 d-flex justify-content-center">
                 <img src="./img/office.jpeg" class="img-fluid rounded w-75" alt="">
            
         </div>
         <div class="col-md-6">
 
-        <span class="offer-span">Druvi Engineering </span>
+        <span class="offer-span ">Druvi Engineering </span>
         <h1 class="offer-h mb-4">A Legacy of Excellence in Tool and Die Making   </h1>
 
         <p class="offer-p fs-7">
