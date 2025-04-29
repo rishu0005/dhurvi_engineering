@@ -7,7 +7,7 @@
 </div>
 
 
-<div class="container-fluid contact-background">
+<div class="container-fluid pb-5 contact-background">
  <div class="container">
         <div class="row ">
             <div class="col-lg-3 col-md-6">
@@ -24,12 +24,12 @@
                     <h4 class="mt-4 text-indigo">+91 7507483383</h4>
 
                     
-                    <div class="social mt-4">
+                    <!-- <div class="social mt-4">
                     <i class="fa-brands fa-facebook-f icon fs-5"></i>
                     <i class="fa-brands fa-x-twitter icon  fs-5"></i>
                     <i class="fa-brands fa-instagram icon  fs-5 mb-5"></i> 
 
-                    </div>
+                    </div> -->
             
                  </div>
                 
