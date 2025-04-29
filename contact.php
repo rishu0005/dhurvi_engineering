@@ -35,40 +35,41 @@
                 
             </div>
             <div class="col-lg-9 col-md-6 bg-transparent d-flex">
-                <form action="mail.php" method="post">
+                <form id="contact_usForm">
                     <div class="row mt-5">
 
                         <div class="col-md-6  bg-transparent mb-3">
                            
                                 <!-- <label for="name">Name</label> -->
-                                <input type="text" name="name" placeholder="Enter Your Name" class="form-control" required>
+                                <input type="text" id="name" name="name" placeholder="Enter Your Name" class="form-control" required>
                             
                         </div>
                         <div class="col-md-6  col-xs-12 mb-3">
                             
-                            <input type="email" name="email" placeholder="Enter Your Email" class="form-control" required>
+                            <input type="email" id="email" name="email" placeholder="Enter Your Email" class="form-control" required>
                             
                         </div>
                         <div class="col-md-6 col-xs-12  mb-3">
                             
-                            <input type="number" name="number" placeholder="Enter Your Number" class="form-control" required>
+                            <input type="number" id="phone" name="number" placeholder="Enter Your Number" class="form-control" required>
                             
                         </div>
                         <div class="col-md-6 col-xs-12 mb-3">
                             
-                        <input type="text" name="address" placeholder="Enter Your Address" class="form-control" required>
+                        <input type="text" name="address" id="address" placeholder="Enter Your Address" class="form-control" required>
                             
                         </div>
                         <div class="col-md-12">
                             
-                       <textarea name="message" rows="5" class="form-control" id="" placeholder="How Can We Help You? Feel free to get in touch " required></textarea>
+                       <textarea name="message" rows="5" class="form-control" id="message" placeholder="How Can We Help You? Feel free to get in touch " required></textarea>
                             
                         </div>
     
-                        <div class="col-12 mt-4 mb-5 d-flex justify-content-center">
-
-                            <button type="submit" class="btn-red  w-100 fs-5 text-white">Submit</button>
+                        <div class="col-12 mt-4  d-flex justify-content-center">
+                            <button type="submit"  class="btn-red  w-100 fs-5 text-white">Submit</button>
                         </div>
+                        <div class="msgSubmit" id="msgSubmit"></div>
+
                     </div>
                 </form>
             </div>
@@ -86,5 +87,81 @@
 </div>
    
 
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.1/jquery.validate.min.js"></script>
+    <script type="text/javascript">
 
+
+
+
+        $(document).ready(function() {
+
+        $('#contact_usForm').submit(function(e) {
+
+            e.preventDefault();
+            var all_ok = true;
+            var name = $('#name').val();
+            var email = $('#email').val();
+            var phone = $('#phone').val();
+            var subject = $('#address').val();
+            var message = $('#message').val();
+
+            $(".error").remove();
+
+            if (name.length < 2) {
+            $('#name').after('<span class="error text-danger">This field is required</span>');
+            all_ok =false;
+        }
+        if (phone.length < 1 ) {
+            $('#phone').after('<span class="error text-danger ">This field is required</span>');
+            all_ok =false;
+        }
+        else if(phone.length > 10){
+            $('#phone').after('<span class="error text-danger ">Enter Valid Mobile Number</span>');
+            all_ok =false;
+        }
+        else if(phone.length < 10){
+            $('#phone').after('<span class="error text-danger ">Enter Valid Mobile Number</span>');
+            all_ok =false;
+        }
+       
+
+        if (email.length < 1) {
+            $('#email').after('<span class="error  text-danger ">This field is required</span>');
+            all_ok =false;
+        } 
+        if (subject =='') {
+            $('#address').after('<span class="error text-danger ">This field is required</span>');
+            all_ok =false;
+        } 
+
+        if (message =='') {
+            $('#message').after('<span class="error text-danger ">This field is required</span>');
+            all_ok =false;
+        } 
+
+            
+        if(all_ok){
+            
+            $.ajax({
+                type: 'post',
+                url: 'mail.php',
+                data: $('#contact_usForm').serialize(),
+                success: function (data) {
+                    
+                    $('#msgSubmit').html(data);
+                    
+                    //window.location.href = 'https://primepulse.in';
+            }
+        });
+            
+        } 
+
+        
+        
+
+    });
+
+    });
+    </script>
 <?php include 'footer.php'; ?>

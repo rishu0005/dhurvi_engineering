@@ -11,12 +11,12 @@ if(isset($_POST['email']))
         $number = $_POST['number'];
         $address = $_POST['address'];
         $message=$_POST['message'];
-        $to = '';
+        $to = 'druviengineering29@gmail.com';
         $subject = 'A new email has arrived from your website Druvi Enginnering';
         $headers  = 'MIME-Version: 1.0' . "\r\n";
         $headers .= 'Content-type: text/html; charset=iso-8859-1' . "\r\n";
         // $headers .= 'From: your-email@example.com' . "\r\n"; // Add the "From" header here
-        $headers .= 'From: ' ."\r\n"; // Add the "From" header here
+        $headers .= 'From: druviengineering29@gmail.com' ."\r\n"; // Add the "From" header here
         $body="<html><body><div style='background:#ffffff;border:solid 1px #3498db; padding:15px'>
           <h2 style='font-weight:italic;'> Dear Sir/Madam,</h2>
           <br>
@@ -36,8 +36,9 @@ if(isset($_POST['email']))
           // var_dump($result) ;
         $result=mail($to,$subject,$body,$headers);
         if(!$result) {
-          error_log("Email failed to send: " . error_get_last());
-          die('Problem occurred while sending email!');
+          // error_log("Email failed to send: " . error_get_last());
+          // die('Problem occurred while sending email!');
+          echo '<p class="alert alert-danger">problem ocured while sending email!</p> ';
       }
         else
         {
